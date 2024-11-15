@@ -1,6 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
 # Plugins
@@ -27,14 +26,9 @@ URL = "js/library/fontfaceobserver.js"
 [menu]
 
 [[menu.header]]
-name = "About"
-URL = "#about"
+name = "Blog"
+URL = "/blog"
 weight = 2
-
-[[menu.header]]
-name = "Portfolio"
-URL = "#portfolio"
-weight = 3
 
 #  [[menu.header]]
 #  name = "Experience"
@@ -42,14 +36,21 @@ weight = 3
 #  weight = 4
 
 [[menu.header]]
-name = "Blog"
-URL = "/blog"
-weight = 5
+name = "DAW"
+URL = "/javascript"
+weight = 3
 
 [[menu.header]]
-name = "Contact"
-URL = "#contact"
-weight = 6
+name = "Markdown"
+URL = "/markdown"
+weight = 4
+
+[[menu.header]]
+name = "Television"
+URL = "/tele"
+weight = 5
+
+#MENU FOOTER
 
 [[menu.footer]]
 name = "About"
@@ -85,8 +86,8 @@ code = "GTM-XXXXX"
 enabled = false
 
 [params.logo]
-text1 = "Cool"
-text2 = "Name"
+text1 = "Saru"
+text2 = "Codes"
 
 [params.footer]
 copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."

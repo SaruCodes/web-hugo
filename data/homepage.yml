@@ -1,0 +1,145 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hola, soy Sara"
+  subtitle: "Desarrolladora web y diseñadora"
+  description: >
+    Esta web es un proyecto realizado con Hugo para la asignatura de Desarrollo de aplicaciones Web
+    en entorno Servidor, en ella vas a poder encontrar información sobre mi, algunos apuntes sobre Markdown 
+    y JavaScript e incluso canales de televisión!
+  image:
+    x: "images/showcase/showcase.png"
+    _2x: "images/showcase/showcase@2x.png"
+  imageMobile:
+    x: "images/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://www.adrianmoreno.info/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/adrianmoreno/"
+
+    - icon: "github"
+      URL: "https://github.com/zetxek"
+
+    - icon: "dribbble"
+      URL: "#"
+
+    - icon: "behance"
+      URL: "#"
+
+    - icon: "instagram"
+      URL: "#"
+
+# about
+about:
+  enable: true
+  title: "¿Quien soy?"
+  content: >
+    <p class="lead">
+      Mi nombre es Sara y soy estudiante de Desarrollo de Aplicaciones Web, anteriomente he estudiado diseño de 
+      aplicaciones móviles y web y audiovisuales.   
+      </p>
+      <p class="lead">
+      Siempre he sentido que mi trabajo iba a estar ligado a las tecnologías y ordenadores, .
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/adrianmoreno/"
+  image:
+    x: "images/who-am-i/user-picture.png"
+    _2x: "images/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Estudios"
+  items:
+    - university: "CPIFP Los Enlaces"
+      year: "2023-2025"
+      degree: "Grado Superior en Desarrollo de Aplicaciones Web"
+
+    - university: "CPIFP Los Enlaces"
+      year: "2020-2022"
+      degree: "Grado superior en Realización de Proyectos Audiovisuales y Espectáculos"
+
+    - university: "Escuela de Artes de Zaragoza"
+      year: "2017-2019"
+      degree: "Grado Superior en Gráfica Interactiva"
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: >
+    A continuación te dejo unos enlaces a mi Linkedin y a mi Currículum dónde puedes ver mi experiencia laboral.
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "#"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Descarga mi CV"
+    URL: "#"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonios"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "images/testimonials/daniel-jordan.jpg"
+        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Chat GPT"
+      position: "IA, OpenAI"
+      content: "Es alguien en quien puedes confiar para hacer el trabajo bien hecho, siempre está dispuesto a ayudar y aportar ideas frescas, y es un placer trabajar a su lado."
+      image:
+        x: "images/testimonials/jonathan-peters.jpg"
+        _2x: "images/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Amiga de Sara"
+      content: "Buena amiga"
+      image:
+        x: "images/testimonials/antonio-willis.jpg"
+        _2x: "images/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contacto"
+  form:
+    action: "#"
+    full_name: "Nombre Completo"
+    email: "Dirección de correo"
+    message: "Escribe aquí tu mensaje"
+  phone:
+    title: "Phone Number"
+    number: "+34-600-00-00-00"
+  email:
+    title: "Email"
+    email: '<a href="mailto:mail@example.com">mail@example.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
