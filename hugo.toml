@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "www.blogdesara.com"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
@@ -42,7 +42,7 @@ weight = 3
 
 [[menu.header]]
 name = "Markdown"
-URL = "/markdown"
+URL = "/daw"
 weight = 4
 
 [[menu.header]]

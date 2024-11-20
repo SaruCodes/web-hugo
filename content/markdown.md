@@ -1,7 +1,7 @@
 ---
 title: "Apuntes sobre Markdown"
 date: 2024-11-15
-description: "Una guía rápida sobre el lenguaje Markdown"
+description: "Una guía rápida sobre Markdown"
 ---
 
 # Apuntes sobre Markdown
