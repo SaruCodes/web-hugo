@@ -1,21 +1,36 @@
 ---
-date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'Radity Finance - UI Kit'
-draft: false # set to "true" if you want to hide the content 
-
-link: "https://www.adrianmoreno.info" # optional URL to link the logo to
-
-params:
-    button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "https://www.adrianmoreno.info"
-    image:  
-        x: "images/works/radity-finance.jpg"
-        _2x: "images/works/radity-finance@2x.jpg"
-    
-
-## The content is used for the description of the project
+title: "Apuntes sobre Markdown"
+date: 2024-11-15
+description: "Una guía rápida sobre Markdown"
+draft: false
 ---
 
-We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.
+# Apuntes sobre Markdown
+
+Markdown es un lenguaje de marcado ligero que permite dar formato a texto de manera sencilla. A continuación, se presentan algunos apuntes y ejemplos sobre cómo utilizar Markdown para dar formato a tus documentos.
+
+---
+
+## 1. Encabezados
+
+Para crear encabezados, usa el símbolo `#` seguido de un espacio. Cuantos más `#` utilices, menor será el nivel del encabezado:
+
+```markdown
+# Encabezado de nivel 1
+## Encabezado de nivel 2
+### Encabezado de nivel 3
+
+**Este es un texto en negrita**
+*Este es un texto en cursiva*
+~~Este texto está tachado~~
+
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+| Encabezado 1 | Encabezado 2 |
+| ------------ | ------------ |
+| Fila 1       | Valor 1      |
+| Fila 2       | Valor 2      |
+
+
