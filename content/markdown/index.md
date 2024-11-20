@@ -1,36 +1,35 @@
 ---
-title: "Apuntes sobre Markdown"
+title: "Markdown Syntax Guide"
 date: 2024-11-15
-description: "Una guía rápida sobre Markdown"
+layout: "article"
+slug: "markdown-syntax-guide"
+description: "Una guía básica sobre la sintaxis de Markdown"
+menu:
+  main:
+    weight: -70
+    params:
+      icon: "archives"
 draft: false
+
+
 ---
 
-# Apuntes sobre Markdown
+# Guía de Sintaxis Markdown
 
-Markdown es un lenguaje de marcado ligero que permite dar formato a texto de manera sencilla. A continuación, se presentan algunos apuntes y ejemplos sobre cómo utilizar Markdown para dar formato a tus documentos.
+Este artículo ofrece un ejemplo básico de la sintaxis de Markdown que puedes usar en archivos de contenido Hugo, además de mostrar cómo se aplican los elementos HTML básicos decorados con CSS en un tema Hugo.
 
 ---
 
 ## 1. Encabezados
 
-Para crear encabezados, usa el símbolo `#` seguido de un espacio. Cuantos más `#` utilices, menor será el nivel del encabezado:
+Los siguientes elementos HTML `<h1>—<h6>` representan seis niveles de encabezados de sección. `<h1>` es el nivel más alto, mientras que `<h6>` es el más bajo.
 
 ```markdown
-# Encabezado de nivel 1
-## Encabezado de nivel 2
-### Encabezado de nivel 3
-
-**Este es un texto en negrita**
-*Este es un texto en cursiva*
-~~Este texto está tachado~~
-
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-| Encabezado 1 | Encabezado 2 |
-| ------------ | ------------ |
-| Fila 1       | Valor 1      |
-| Fila 2       | Valor 2      |
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 

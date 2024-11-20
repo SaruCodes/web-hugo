@@ -1,0 +1,117 @@
+baseURL: "https://www.blogDeSara.com"  # Cambia por tu dominio
+languageCode: "es-es"  # Código de idioma
+title: "SaruCodes"
+theme: "hugo-theme-stack"  # Asegúrate de usar el nombre correcto de tu tema
+
+params:
+  # Parámetros generales
+  mainSections:
+    - post  # Define las secciones de tu sitio
+  featuredImageField: "image"  # Si tienes un campo de imagen destacado
+  rssFullContent: true  # Si deseas que el contenido completo se incluya en el RSS
+  favicon: "/favicon.ico"  # Ruta del favicon
+
+  # Configuración del pie de página
+  footer:
+    since: 2023
+    customText: "¡Gracias por visitar!"
+
+  # Configuración de fechas
+  dateFormat:
+    published: "Jan 02, 2006"
+    lastUpdated: "Jan 02, 2006 15:04 MST"
+
+  # Configuración de la barra lateral
+  sidebar:
+    compact: false  # Modo compacto de la barra lateral
+    emoji: "🌸"  # Un emoji para mostrar
+    subtitle: "Bienvenido a mi blog."
+    avatar:
+      enabled: true  # Habilita el avatar
+      local: true  # Si es una imagen local
+      src: "img/avatar.jpg"  # Ruta a tu imagen de avatar
+
+  # Configuración de artículos
+  article:
+    headingAnchor: false
+    math: false
+    toc: true  # Muestra la tabla de contenido
+    readingTime: true  # Muestra el tiempo de lectura
+    license:
+      enabled: false
+      default: "Licensed under CC BY-NC-SA 4.0"
+
+  # Comentarios
+  comments:
+    enabled: false
+    provider: "disqus"  # Usa Disqus o cualquier otro servicio de comentarios
+
+  # Configuración de redes sociales para OpenGraph (como Twitter)
+  opengraph:
+    twitter:
+      site: "@tuusuario"  # Cambia esto por tu usuario de Twitter
+      card: "summary_large_image"  # Tipo de tarjeta de Twitter
+
+  # Configuración de la imagen por defecto para OpenGraph
+  defaultImage:
+    opengraph:
+      enabled: true
+      local: false
+      src: "img/default.jpg"  # Cambia la imagen predeterminada
+
+  # Esquema de colores (toggle de modo claro/oscuro)
+  colorScheme:
+    toggle: true
+    default: auto  # Puede ser auto, light, dark
+
+  # Procesamiento de imágenes
+  imageProcessing:
+    cover:
+      enabled: true  # Procesamiento de imágenes de portada
+    content:
+      enabled: true  # Procesamiento de imágenes dentro del contenido
+
+menu:
+  main:
+    - identifier: "home"
+      name: "Inicio"
+      url: "/"
+      weight: 1
+    - identifier: "about"
+      name: "Sobre mí"
+      url: "/about/"
+      weight: 2
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 3
+    - identifier: "apuntes"
+      name: "Apuntes"
+      url: "/apuntes/"
+      weight: 4
+    - identifier: "television"
+      name: "Television"
+      url: "/television/"
+      weight: 5
+  social:
+    - identifier: "github"
+      name: "GitHub"
+      url: "https://github.com/tuusuario"
+      params:
+        icon: "brand-github"
+    - identifier: "linkedin"
+      name: "LinkedIn"
+      url: "https://linkedin.com/tuusuario"
+      params:
+        icon: "brand-linkedin"
+    - identifier: "twitter"
+      name: "Twitter"
+      url: "https://twitter.com/tuusuario"
+      params:
+        icon: "brand-twitter"
+    - identifier: "facebook"
+      name: "Facebook"
+      url: "https://facebook.com/tuusuario"
+      params:
+        icon: "brand-facebook"
+
