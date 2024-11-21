@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bienvenido a SaruCodes on SaruCodes</title>
-        <link>http://localhost:40863/</link>
+        <link>http://localhost:33977/</link>
         <description>Recent content in Bienvenido a SaruCodes on SaruCodes</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>es-es</language>
-        <lastBuildDate></lastBuildDate><atom:link href="http://localhost:40863/index.xml" rel="self" type="application/rss+xml" />
+        <language>es</language>
+        <copyright>Sara Codes</copyright>
+        <lastBuildDate></lastBuildDate><atom:link href="http://localhost:33977/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

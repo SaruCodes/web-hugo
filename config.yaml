@@ -1,75 +1,121 @@
-baseURL: "https://www.blogDeSara.com"  # Cambia por tu dominio
-languageCode: "es-es"  # Código de idioma
+baseURL: "https://www.blogDeSara.com"
+languageCode: "es-es"
 title: "SaruCodes"
-theme: "hugo-theme-stack"  # Asegúrate de usar el nombre correcto de tu tema
+theme: "hugo-theme-stack"
+copyright: "Sara Codes"
+DefaultContentLanguage: "es"
+hasCJKLanguage: false
+
+languages:
+  es:
+    languageName: Español
+    title: "SaruCodes"
+    weight: 1
+    params:
+      sidebar:
+        subtitle: "Bienvenido a mi espacio."
+  en:
+    languageName: English
+    title: "SaruCodes (EN)"
+    weight: 2
+    params:
+      sidebar:
+        subtitle: "Welcome to my space."
 
 params:
-  # Parámetros generales
+  # Secciones principales
   mainSections:
-    - post  # Define las secciones de tu sitio
-  featuredImageField: "image"  # Si tienes un campo de imagen destacado
-  rssFullContent: true  # Si deseas que el contenido completo se incluya en el RSS
-  favicon: "/favicon.ico"  # Ruta del favicon
+    - post
+  featuredImageField: "image"
+  rssFullContent: true
+  favicon: "/favicon.ico"
 
-  # Configuración del pie de página
+  # Pie de página
   footer:
     since: 2023
     customText: "¡Gracias por visitar!"
 
-  # Configuración de fechas
+  # Formato de fechas
   dateFormat:
     published: "Jan 02, 2006"
     lastUpdated: "Jan 02, 2006 15:04 MST"
 
-  # Configuración de la barra lateral
+  # Barra lateral
   sidebar:
-    compact: false  # Modo compacto de la barra lateral
-    emoji: "🌸"  # Un emoji para mostrar
-    subtitle: "Bienvenido a mi blog."
+    compact: false
+    emoji: "🌸"
+    subtitle: "Bienvenido a mi espacio."
     avatar:
-      enabled: true  # Habilita el avatar
-      local: true  # Si es una imagen local
-      src: "img/avatar.jpg"  # Ruta a tu imagen de avatar
+      enabled: true
+      local: true
+      src: "img/avatar.jpg"
 
-  # Configuración de artículos
+  # Artículos
   article:
-    headingAnchor: false
+    headingAnchor: true
     math: false
-    toc: true  # Muestra la tabla de contenido
-    readingTime: true  # Muestra el tiempo de lectura
+    toc: true
+    readingTime: true
     license:
-      enabled: false
+      enabled: true
       default: "Licensed under CC BY-NC-SA 4.0"
 
   # Comentarios
   comments:
-    enabled: false
-    provider: "disqus"  # Usa Disqus o cualquier otro servicio de comentarios
+    enabled: true
+    provider: disqus
+    disqus:
+      shortname: "sarucodes"
+    utterances:
+      repo: "tuusuario/tu-repo"
+      issueTerm: "pathname"
+      label: "Comentario"
+    giscus:
+      repo: "tuusuario/tu-repo"
+      repoID: "repo-id"
+      category: "General"
+      categoryID: "category-id"
 
-  # Configuración de redes sociales para OpenGraph (como Twitter)
+  # Redes sociales (OpenGraph y Twitter)
   opengraph:
     twitter:
-      site: "@tuusuario"  # Cambia esto por tu usuario de Twitter
-      card: "summary_large_image"  # Tipo de tarjeta de Twitter
+      site: "@tuusuario"
+      card: "summary_large_image"
 
-  # Configuración de la imagen por defecto para OpenGraph
+  # Imagen por defecto
   defaultImage:
     opengraph:
       enabled: true
-      local: false
-      src: "img/default.jpg"  # Cambia la imagen predeterminada
+      local: true
+      src: "img/avatar.jpg"
 
-  # Esquema de colores (toggle de modo claro/oscuro)
+  # Esquema de colores
   colorScheme:
     toggle: true
-    default: auto  # Puede ser auto, light, dark
+    default: auto
 
   # Procesamiento de imágenes
   imageProcessing:
     cover:
-      enabled: true  # Procesamiento de imágenes de portada
+      enabled: true
     content:
-      enabled: true  # Procesamiento de imágenes dentro del contenido
+      enabled: true
+
+  # Widgets
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+    page:
+      - type: toc
 
 menu:
   main:
@@ -82,8 +128,8 @@ menu:
       url: "/about/"
       weight: 2
     - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
+      name: "Viajes"
+      url: "/viajes/"
       weight: 3
     - identifier: "apuntes"
       name: "Apuntes"
@@ -99,19 +145,58 @@ menu:
       url: "https://github.com/tuusuario"
       params:
         icon: "brand-github"
-    - identifier: "linkedin"
-      name: "LinkedIn"
-      url: "https://linkedin.com/tuusuario"
-      params:
-        icon: "brand-linkedin"
     - identifier: "twitter"
       name: "Twitter"
       url: "https://twitter.com/tuusuario"
       params:
         icon: "brand-twitter"
-    - identifier: "facebook"
-      name: "Facebook"
-      url: "https://facebook.com/tuusuario"
+    - identifier: "linkedin"
+      name: "LinkedIn"
+      url: "https://linkedin.com/tuusuario"
       params:
-        icon: "brand-facebook"
+        icon: "brand-linkedin"
 
+pagination:
+  pagerSize: 3
+
+permalinks:
+  post: "/p/:slug/"
+  page: "/:slug/"
+
+related:
+  includeNewer: true
+  threshold: 60
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 200
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - "\\["
+              - "\\]"
+            - - "$$"
+              - "$$"
+          inline:
+            - - "\\("
+              - "\\)"
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4

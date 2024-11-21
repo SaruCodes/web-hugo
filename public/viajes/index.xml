@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on </title>
+    <link>//localhost:1313/viajes/</link>
+    <description>Recent content in Viajes on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Descubriendo Portugal</title>
+      <link>//localhost:1313/viajes/descubriendo-portugal/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/viajes/descubriendo-portugal/</guid>
+      <description>&lt;h1 id=&#34;descubriendo-portugal&#34;&gt;Descubriendo Portugal&lt;/h1&gt;&#xA;&lt;p&gt;Portugal es un país lleno de historia, cultura, hermosos paisajes y gente cálida. Desde la costa atlántica hasta las ciudades vibrantes, este pequeño pero fascinante país tiene mucho que ofrecer a los viajeros y residentes. En este artículo, exploraremos algunos de los aspectos más destacados de Portugal.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-la-historia-de-portugal&#34;&gt;1. La Historia de Portugal&lt;/h2&gt;&#xA;&lt;p&gt;Portugal tiene una rica historia que se remonta a tiempos antiguos. Fundado en el siglo XII, Portugal se ha destacado por su exploración marítima. Grandes navegantes portugueses, como Vasco da Gama, jugaron un papel crucial en la expansión del imperio portugués a través del mundo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
