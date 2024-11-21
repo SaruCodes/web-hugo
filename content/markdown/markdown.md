@@ -1,14 +1,8 @@
 ---
-title: "Markdown Syntax Guide"
+title: "Markdown básico"
 date: 2024-11-15
-layout: "article"
-slug: "markdown-syntax-guide"
+layout: "single"
 description: "Una guía básica sobre la sintaxis de Markdown"
-menu:
-  main:
-    weight: -70
-    params:
-      icon: "archives"
 draft: false
 
 

@@ -1,3 +1,18 @@
+---
+title: "Viaje a Portugal"
+date: 2024-11-21
+layout: "page"
+menu: 
+  main:
+    name: "Viajes"
+    weight: 3
+tags:
+  - blog
+  - viaje
+---
+Contenido de la página "Viajes" aquí...
+
+
 # Lisboa: Una Ciudad de Encanto, Historia y Luz
 
 Lisboa, la capital de Portugal, es un lugar que combina historia, cultura y una vibrante vida moderna. Con sus calles empedradas, sus miradores panorámicos y su famosa luz dorada, esta ciudad no solo enamora a quienes la visitan, sino que deja una marca inolvidable en el corazón de quienes la recorren. En esta entrada, exploraremos algunos de los rincones más mágicos de Lisboa y te daremos razones para incluirla en tu lista de destinos imprescindibles.

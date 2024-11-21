@@ -67,7 +67,7 @@ article:
 
     # Comentarios
   comments:
-    enabled: false
+    enabled: true
     provider: disqus
     disqus:
       shortname: "sarucodes"
@@ -92,7 +92,7 @@ article:
     opengraph:
       enabled: true
       local: true
-      src: "img/avatar.jpg"
+      src: "img/default.jpg"
 
   # Esquema de colores
   colorScheme:
@@ -106,7 +106,6 @@ article:
     content:
       enabled: true
 
-  # Widgets
 widgets:
   homepage:
     - type: categories
@@ -115,20 +114,14 @@ widgets:
     - type: tag-cloud
       params:
         limit: 10
-  page:
-    - type: toc
 
 menu:
   main:
-    - identifier: "home"
-      name: "Inicio"
-      url: "/"
-      weight: 1
     - identifier: "about"
       name: "Sobre mí"
       url: "/about/"
       weight: 2
-    - identifier: "blog"
+    - identifier: "viajes"
       name: "Viajes"
       url: "/viajes/"
       weight: 3

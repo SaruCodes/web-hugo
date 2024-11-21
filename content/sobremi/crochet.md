@@ -4,9 +4,9 @@ date: 2024-11-21
 category: "Artesanía"
 tags:
   - crochet
-  - tutorial
+  - blog
   - manualidades
-summary: "Descubre el mundo del crochet, una técnica versátil y relajante para crear desde prendas hasta decoraciones únicas."
+summary: "Descubre uno de mis hobbies, el crochet, también te doy consejos sobre como empezar."
 cover: "/images/crochet-guide.jpg"
 ---
 
