@@ -16,19 +16,19 @@
         <description></description>
         </item>
         <item>
-        <title>Viajes</title>
-        <link>http://localhost:1313/categories/viajes/</link>
-        <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/viajes/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Programación</title>
         <link>http://localhost:1313/categories/programaci%C3%B3n/</link>
         <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/programaci%C3%B3n/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Viajes</title>
+        <link>http://localhost:1313/categories/viajes/</link>
+        <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/viajes/</guid>
         <description></description>
         </item>
         

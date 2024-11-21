@@ -46,6 +46,16 @@ En este artículo, hablare sobre los puntos básicos, los tipos de ganchos y el 
 &lt;li&gt;&lt;strong&gt;Acrílico&lt;/strong&gt;: Económico y disponible en una amplia variedad de colores.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Lana&lt;/strong&gt;: Cálida y elástica, ideal para prendas de invierno.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/crochet2.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Imagen de ovillos azules&#34;
+	
+	
+&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;aprende-los-puntos-básicos&#34;&gt;Aprende los puntos básicos
 &lt;/h2&gt;&lt;p&gt;Antes de lanzarte a proyectos complejos, es importante dominar los puntos básicos. Aquí tienes algunos esenciales:&lt;/p&gt;
@@ -69,34 +79,17 @@ En este artículo, hablare sobre los puntos básicos, los tipos de ganchos y el 
 &lt;h2 id=&#34;un-mundo-de-posibilidades&#34;&gt;Un mundo de posibilidades
 &lt;/h2&gt;&lt;p&gt;El crochet no solo es divertido, sino también terapéutico. Con el tiempo, podrás crear prendas de vestir, mantas decorativas, juguetes y más. Además, es una manera fantástica de personalizar regalos o incluso de iniciar un pequeño negocio.&lt;/p&gt;
 &lt;p&gt;¡Así que toma tu aguja, elige un ovillo de tu color favorito y comienza a crear! El mundo del crochet te espera con infinitas posibilidades. 🌟&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/zzWX2dx8ufc&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;hr&gt;
 </description>
-        </item>
-        <item>
-        <title>Shortcodes en Hugo</title>
-        <link>http://localhost:1313/markdown/shortcode/</link>
-        <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/markdown/shortcode/</guid>
-        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Shortcodes en Hugo" /&gt;&lt;h1 id=&#34;shortcodes-en-hugo&#34;&gt;Shortcodes en Hugo
-&lt;/h1&gt;&lt;p&gt;Los &lt;strong&gt;shortcodes&lt;/strong&gt; en Hugo son herramientas potentes que permiten insertar contenido enriquecido como imágenes, videos, y otros elementos de manera sencilla en tus archivos Markdown. Estos son algunos de los shortcodes más útiles y cómo emplearlos.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;1-imágenes&#34;&gt;1. Imágenes
-&lt;/h2&gt;&lt;p&gt;Para insertar imágenes usando el shortcode &lt;code&gt;figure&lt;/code&gt;, puedes agregar una descripción opcional y un pie de foto.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ruta/a/la/imagen.jpg&#34;
-    alt=&#34;Texto alternativo&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Pie de foto opcional&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
         </item>
         <item>
         <title>Objetos Complejos en JavaScript 💻</title>
@@ -208,6 +201,47 @@ En este artículo, hablare sobre los puntos básicos, los tipos de ganchos y el 
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;casa&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;habitaciones&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;numero&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// 3
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;casa&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;decoracion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// &amp;#34;moderna&amp;#34;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;trabajando-con-objetos&#34;&gt;&lt;strong&gt;Trabajando con Objetos&lt;/strong&gt;
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;nombre&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// &amp;#34;Ana&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;propiedad&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;edad&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;propiedad&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// 25
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;ocupacion&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Desarrolladora&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Agregar
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;edad&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;26&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;                   &lt;span class=&#34;c1&#34;&gt;// Modificar
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;delete&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;ocupacion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         </item>
@@ -391,9 +425,30 @@ Con sus calles empedradas, sus miradores panorámicos y su famosa luz dorada, es
 &lt;/h2&gt;&lt;p&gt;Lisboa es una ciudad cargada de historia, desde los días de los descubrimientos marítimos hasta su resiliencia tras el devastador terremoto de 1755.
 Cada esquina cuenta una historia, y cada monumento te invita a viajar en el tiempo. No podrás parar de mirar la bella arquitectura, sus tranvías amarillos
 antiguos y los numerosos monumentos.&lt;/p&gt;
-&lt;h3 id=&#34;el-barrio-de-alfama&#34;&gt;&lt;strong&gt;El Barrio de Alfama&lt;/strong&gt;
+&lt;h2 id=&#34;lugares-emblemáticos-de-la-ciudad&#34;&gt;&lt;strong&gt;Lugares emblemáticos de la ciudad&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;el-barrio-de-alfama&#34;&gt;&lt;strong&gt;El Barrio de Alfama&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y casas de colores pastel adornadas con azulejos tradicionales. Es el lugar perfecto para perderse sin mapa, descubriendo miradores escondidos y pequeñas plazas llenas de vida.&lt;/p&gt;
 &lt;p&gt;No te pierdas el &lt;strong&gt;Castillo de San Jorge&lt;/strong&gt;, un imponente testimonio de la historia medieval de la ciudad, desde donde podrás disfrutar de una de las vistas más espectaculares de Lisboa.&lt;/p&gt;
+&lt;h2 id=&#34;3-castillo-de-san-jorge-&#34;&gt;&lt;strong&gt;3. Castillo de San Jorge&lt;/strong&gt; 🏯
+&lt;/h2&gt;&lt;p&gt;Situado en una colina con vistas panorámicas de la ciudad, este castillo medieval fue una fortaleza clave durante la historia de Lisboa. Es perfecto para explorar murallas y disfrutar de vistas impresionantes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ubicación:&lt;/strong&gt; Alfama&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dato curioso:&lt;/strong&gt; Fue residencia real durante el reinado de los moros.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-elevador-de-santa-justa-&#34;&gt;&lt;strong&gt;4. Elevador de Santa Justa&lt;/strong&gt; 🛗
+&lt;/h2&gt;&lt;p&gt;Una maravilla de ingeniería del siglo XIX, este ascensor conecta los barrios de Baixa y Chiado. Su diseño neogótico lo convierte en una atracción única.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ubicación:&lt;/strong&gt; Baixa&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dato curioso:&lt;/strong&gt; Diseñado por Raoul Mesnier de Ponsard, discípulo de Gustave Eiffel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-plaza-del-comercio-praça-do-comércio-&#34;&gt;&lt;strong&gt;5. Plaza del Comercio (Praça do Comércio)&lt;/strong&gt; 🌟
+&lt;/h2&gt;&lt;p&gt;Una de las plazas más grandes y hermosas de Europa, ubicada junto al río Tajo. Representa la reconstrucción de la ciudad tras el terremoto de 1755.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ubicación:&lt;/strong&gt; Baixa&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dato curioso:&lt;/strong&gt; Aquí se encuentra el icónico Arco de Rua Augusta.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;sabores-de-lisboa&#34;&gt;&lt;strong&gt;Sabores de Lisboa&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;No puedes hablar de Lisboa sin mencionar su deliciosa gastronomía. Aquí, cada comida es una experiencia que mezcla tradición y frescura.&lt;/p&gt;
@@ -451,6 +506,53 @@ Su luz, su historia, su música y su gente la convierten a esta ciudad en un lug
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Viaje a Liverpool y Chester 🚕</title>
+        <link>http://localhost:1313/viajes/liverpool/</link>
+        <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/viajes/liverpool/</guid>
+        <description>&lt;img src="http://localhost:1313/img/liverpool.jpg" alt="Featured image of post Viaje a Liverpool y Chester 🚕" /&gt;&lt;h1 id=&#34;bienvenido-a-liverpool-y-chester&#34;&gt;¡Bienvenido a Liverpool y Chester!
+&lt;/h1&gt;&lt;p&gt;Si estás planeando una visita al noroeste de Inglaterra, hay dos lugares que no puedes dejar de explorar: &lt;strong&gt;Liverpool&lt;/strong&gt;, una ciudad vibrante llena de historia, música y cultura.
+Hace años tuve oportunidad de visitarla y quiero recomendar sitios emblematicos que no os podeis perder.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;liverpool-la-ciudad-de-los-beatles-y-más&#34;&gt;Liverpool: La Ciudad de los Beatles y Más
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Liverpool&lt;/strong&gt; es famosa mundialmente por ser el lugar donde nacieron &lt;strong&gt;The Beatles&lt;/strong&gt;, pero esta ciudad tiene mucho más que ofrecer. Desde sus impresionantes muelles históricos hasta su pasión por el fútbol, aquí tienes algunos puntos clave que no puedes perderte:&lt;/p&gt;
+&lt;h3 id=&#34;1-the-beatles-story&#34;&gt;1. The Beatles Story
+&lt;/h3&gt;&lt;p&gt;El museo &lt;strong&gt;The Beatles Story&lt;/strong&gt; es una parada obligatoria para los fanáticos de la música. Aquí puedes revivir la historia de la banda más icónica de todos los tiempos, con exhibiciones interactivas, artefactos originales y un ambiente que te transportará a la década de los 60 ¡Incluso podras subir a su &amp;ldquo;Yellow Submarine&amp;rdquo;!&lt;/p&gt;
+&lt;h3 id=&#34;2-albert-dock&#34;&gt;2. Albert Dock
+&lt;/h3&gt;&lt;p&gt;Declarado Patrimonio de la Humanidad por la UNESCO, el &lt;strong&gt;Albert Dock&lt;/strong&gt; es un conjunto de edificios históricos frente al río Mersey. Es el hogar de museos como el &lt;strong&gt;Tate Liverpool&lt;/strong&gt; y el &lt;strong&gt;Museo Marítimo&lt;/strong&gt;, además de ofrecer restaurantes y vistas espectaculares.&lt;/p&gt;
+&lt;h3 id=&#34;3-liverpool-cathedral&#34;&gt;3. Liverpool Cathedral
+&lt;/h3&gt;&lt;p&gt;La imponente &lt;strong&gt;Catedral de Liverpool&lt;/strong&gt; es una de las catedrales más grandes del mundo. Su arquitectura gótica moderna y las vistas desde su torre te dejarán sin aliento.&lt;/p&gt;
+&lt;h3 id=&#34;4-anfield&#34;&gt;4. Anfield
+&lt;/h3&gt;&lt;p&gt;Para los amantes del fútbol, visitar el estadio &lt;strong&gt;Anfield&lt;/strong&gt;, hogar del &lt;strong&gt;Liverpool FC&lt;/strong&gt;, es una experiencia única. Si tienes suerte, puedes asistir a un partido y sentir la pasión de los fanáticos.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chester-historia-y-encanto-victoriano&#34;&gt;Chester: Historia y Encanto Victoriano
+&lt;/h2&gt;&lt;p&gt;A tan solo 45 minutos en tren desde Liverpool, &lt;strong&gt;Chester&lt;/strong&gt; es una ciudad pequeña pero llena de encanto. Su historia se remonta a la época romana, y sus calles conservan un aire medieval que te hará sentir en otra época.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/chester.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Imagen en blanco y negro de un edificio en Chester&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-las-murallas-romanas&#34;&gt;1. Las Murallas Romanas
+&lt;/h3&gt;&lt;p&gt;Las murallas de Chester son una de las mejor conservadas de Inglaterra. Puedes caminar sobre ellas y disfrutar de vistas panorámicas de la ciudad.&lt;/p&gt;
+&lt;h3 id=&#34;2-the-rows&#34;&gt;2. The Rows
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;The Rows&lt;/strong&gt; son un conjunto único de galerías comerciales de dos niveles que datan del siglo XIV. Aquí encontrarás boutiques, cafeterías y tiendas llenas de carácter.&lt;/p&gt;
+&lt;h3 id=&#34;3-chester-cathedral&#34;&gt;3. Chester Cathedral
+&lt;/h3&gt;&lt;p&gt;La &lt;strong&gt;Catedral de Chester&lt;/strong&gt; combina arquitectura medieval y victoriana. Además, ofrece recorridos por sus jardines y conciertos ocasionales que resaltan su acústica espectacular.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;una-conexión-especial&#34;&gt;Una Conexión Especial
+&lt;/h2&gt;&lt;p&gt;Aunque Liverpool y Chester tienen personalidades distintas, ambas comparten una rica herencia cultural y una proximidad que las hace ideales para una escapada combinada.
+Además, frecen algo para todos: música, historia, deportes, y una cálida hospitalidad que te hará sentir como en casa.
+Ya sea que estés cantando al ritmo de &lt;strong&gt;The Beatles&lt;/strong&gt; o paseando por las calles adoquinadas de Chester, cada rincón tiene una historia que contar.&lt;/p&gt;
+&lt;p&gt;Para terminar este post añado una de las canciones que más marcó mi viaje, por supuesto, de The Beatles 🎸&lt;/p&gt;
+</description>
         </item>
         
     </channel>

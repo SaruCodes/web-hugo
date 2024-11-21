@@ -38,6 +38,8 @@ Elige un hilo según tu proyecto. Para empezar, un hilo de grosor medio (etiquet
 - **Algodón**: Perfecto para proyectos ligeros como posavasos o amigurumis.
 - **Acrílico**: Económico y disponible en una amplia variedad de colores.
 - **Lana**: Cálida y elástica, ideal para prendas de invierno.
+ 
+![Imagen de ovillos azules](/img/crochet2.jpg)
 
 ---
 
@@ -73,5 +75,8 @@ Se utiliza para unir partes de un proyecto o para dar un acabado limpio.
 El crochet no solo es divertido, sino también terapéutico. Con el tiempo, podrás crear prendas de vestir, mantas decorativas, juguetes y más. Además, es una manera fantástica de personalizar regalos o incluso de iniciar un pequeño negocio.
 
 ¡Así que toma tu aguja, elige un ovillo de tu color favorito y comienza a crear! El mundo del crochet te espera con infinitas posibilidades. 🌟
+
+{{< youtube zzWX2dx8ufc >}}
+
 
 ---

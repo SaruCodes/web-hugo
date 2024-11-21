@@ -74,3 +74,26 @@ decoracion: ["minimalista", "moderna"]
 console.log(casa.habitaciones.numero); // 3
 console.log(casa.decoracion[1]); // "moderna"
 ```
+
+## **Trabajando con Objetos**
+
+```javascript
+console.log(persona.nombre); // "Ana"
+```
+
+```javascript
+let propiedad = "edad";
+console.log(persona[propiedad]); // 25
+```
+
+
+```javascript
+persona.ocupacion = "Desarrolladora"; // Agregar
+persona.edad = 26;                   // Modificar
+console.log(persona);
+```
+
+```javascript
+delete persona.ocupacion;
+console.log(persona);
+```

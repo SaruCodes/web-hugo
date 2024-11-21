@@ -406,6 +406,47 @@
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">casa</span><span class="p">.</span><span class="nx">decoracion</span><span class="p">[</span><span class="mi">1</span><span class="p">]);</span> <span class="c1">// &#34;moderna&#34;
 </span></span></span></code></pre></td></tr></table>
 </div>
+</div><h2 id="trabajando-con-objetos"><strong>Trabajando con Objetos</strong>
+</h2><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">persona</span><span class="p">.</span><span class="nx">nombre</span><span class="p">);</span> <span class="c1">// &#34;Ana&#34;
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">propiedad</span> <span class="o">=</span> <span class="s2">&#34;edad&#34;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">persona</span><span class="p">[</span><span class="nx">propiedad</span><span class="p">]);</span> <span class="c1">// 25
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="nx">persona</span><span class="p">.</span><span class="nx">ocupacion</span> <span class="o">=</span> <span class="s2">&#34;Desarrolladora&#34;</span><span class="p">;</span> <span class="c1">// Agregar
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nx">persona</span><span class="p">.</span><span class="nx">edad</span> <span class="o">=</span> <span class="mi">26</span><span class="p">;</span>                   <span class="c1">// Modificar
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">persona</span><span class="p">);</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="k">delete</span> <span class="nx">persona</span><span class="p">.</span><span class="nx">ocupacion</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">persona</span><span class="p">);</span>
+</span></span></code></pre></td></tr></table>
+</div>
 </div>
 </section>
 

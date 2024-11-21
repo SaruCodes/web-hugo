@@ -23,11 +23,37 @@ Lisboa es una ciudad cargada de historia, desde los días de los descubrimientos
 Cada esquina cuenta una historia, y cada monumento te invita a viajar en el tiempo. No podrás parar de mirar la bella arquitectura, sus tranvías amarillos
 antiguos y los numerosos monumentos.
 
+## **Lugares emblemáticos de la ciudad**
+
 ### **El Barrio de Alfama**
 
 Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y casas de colores pastel adornadas con azulejos tradicionales. Es el lugar perfecto para perderse sin mapa, descubriendo miradores escondidos y pequeñas plazas llenas de vida.
 
 No te pierdas el **Castillo de San Jorge**, un imponente testimonio de la historia medieval de la ciudad, desde donde podrás disfrutar de una de las vistas más espectaculares de Lisboa.
+
+## **3. Castillo de San Jorge** 🏯
+Situado en una colina con vistas panorámicas de la ciudad, este castillo medieval fue una fortaleza clave durante la historia de Lisboa. Es perfecto para explorar murallas y disfrutar de vistas impresionantes.
+
+- **Ubicación:** Alfama
+- **Dato curioso:** Fue residencia real durante el reinado de los moros.
+
+---
+
+## **4. Elevador de Santa Justa** 🛗
+Una maravilla de ingeniería del siglo XIX, este ascensor conecta los barrios de Baixa y Chiado. Su diseño neogótico lo convierte en una atracción única.
+
+- **Ubicación:** Baixa
+- **Dato curioso:** Diseñado por Raoul Mesnier de Ponsard, discípulo de Gustave Eiffel.
+
+---
+
+## **5. Plaza del Comercio (Praça do Comércio)** 🌟
+Una de las plazas más grandes y hermosas de Europa, ubicada junto al río Tajo. Representa la reconstrucción de la ciudad tras el terremoto de 1755.
+
+- **Ubicación:** Baixa
+- **Dato curioso:** Aquí se encuentra el icónico Arco de Rua Augusta.
+
+
 
 ---
 
