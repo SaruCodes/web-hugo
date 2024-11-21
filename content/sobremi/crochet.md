@@ -1,5 +1,5 @@
 ---
-title: "Introducción al Crochet: Tu Nueva Pasión Artesanal"
+title: "Introducción al Crochet: Conoce mi hobby!"
 date: 2024-11-21
 category: "Artesanía"
 tags:

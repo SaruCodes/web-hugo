@@ -21,40 +21,25 @@ En JavaScript, los datos se dividen en dos categorías principales: **primitivos
    ```javascript
    let texto = "Hola, mundo!";
    console.log(texto);
-2. **Number**: Representa números, ya sean enteros o decimales.
+   
+2. **Number**: Representa números, enteros o decimales.
    ```javascript
    let entero = 42;
    let decimal = 3.14;
    console.log(entero, decimal);
+   
 3. **Boolean**: Solo tiene dos valores: true o false.
    ```javascript
    let esVerdad = true;
    console.log(esVerdad);
+   
 4. **Null**: Representa la ausencia intencional de un valor.
    ```javascript
    let vacio = null;
    console.log(vacio);
-5. Undefined: Una variable sin valor asignado.
+   
+5. Undefined: Una variable a la que no se le ha asignado un valor.
    ```javascript
    let sinValor;
    console.log(sinValor); // undefined
 
-### **Primitivos**
-
-1. **String**: Representa texto. Se define entre comillas simples o dobles.
-   ```javascript
-   let texto = "Hola, mundo!";
-   console.log(texto);
-2. **Number**: Representa números, ya sean enteros o decimales.
-   ```javascript
-   let entero = 42;
-   let decimal = 3.14;
-   console.log(entero, decimal);
-3. **Boolean**: Solo tiene dos valores: true o false.
-   ```javascript
-   let esVerdad = true;
-   console.log(esVerdad);
-4. **Null**: Representa la ausencia intencional de un valor.
-   ```javascript
-   let vacio = null;
-   console.log(vacio);

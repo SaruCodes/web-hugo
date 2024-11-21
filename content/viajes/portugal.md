@@ -2,10 +2,6 @@
 title: "Viaje a Portugal"
 date: 2024-11-21
 layout: "page"
-menu: 
-  main:
-    name: "Viajes"
-    weight: 3
 tags:
   - blog
   - viaje
