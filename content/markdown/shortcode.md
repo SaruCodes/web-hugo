@@ -5,6 +5,7 @@ layout: "single"
 tags: ["markdown","hugo", "util"]
 description: "Aprende cómo usar shortcodes en Hugo."
 draft: false
+image: "/img/default.jpg"
 ---
 
 # Shortcodes en Hugo

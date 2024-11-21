@@ -1,9 +1,10 @@
 ---
 title: "Viaje a Portugal ✈️"
-date: 2024-11-21
+date: 2024-11-17
 layout: "page"
 tags: ["viaje", "blog"]
 categories: ["viajes"]
+image: "/img/lisboa.jpg"
 ---
 Contenido de la página "Viajes" aquí...
 

@@ -5,7 +5,7 @@ layout: "single"
 tags: ["markdown","util"]
 description: "Una guía básica sobre la sintaxis de Markdown"
 draft: false
-
+image: "/img/default.jpg"
 ---
 
 # Guía de Sintaxis Markdown

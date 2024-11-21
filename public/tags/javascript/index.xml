@@ -8,12 +8,20 @@
         <language>es</language>
         <copyright>Sara Codes</copyright>
         <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Introducción a JavaScript</title>
-        <link>http://localhost:1313/apuntes/javascript/</link>
+        <title>Objetos Complejos en JavaScript 💻</title>
+        <link>http://localhost:1313/apuntes/javascript2/</link>
         <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
         
+        <guid>http://localhost:1313/apuntes/javascript2/</guid>
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Objetos Complejos en JavaScript 💻" /&gt;</description>
+        </item>
+        <item>
+        <title>Introducción a JavaScript 💻</title>
+        <link>http://localhost:1313/apuntes/javascript/</link>
+        <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+        
         <guid>http://localhost:1313/apuntes/javascript/</guid>
-        <description>&lt;h2 id=&#34;qué-es-javascript&#34;&gt;&lt;strong&gt;¿Qué es JavaScript?&lt;/strong&gt;
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Introducción a JavaScript 💻" /&gt;&lt;h2 id=&#34;qué-es-javascript&#34;&gt;&lt;strong&gt;¿Qué es JavaScript?&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;JavaScript es un lenguaje de programación que se utiliza principalmente para agregar interactividad a las páginas web. Es compatible con todos los navegadores modernos y es esencial en el desarrollo web.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;tipos-de-datos-en-javascript&#34;&gt;&lt;strong&gt;Tipos de datos en JavaScript&lt;/strong&gt;

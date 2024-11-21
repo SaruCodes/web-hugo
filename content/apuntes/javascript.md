@@ -4,6 +4,7 @@ date: 2024-11-18
 draft: false
 tags: ["javascript", "programación", "apuntes"]
 categories: ["programación"]
+image: "img/default.jpg"
 ---
 
 ## **¿Qué es JavaScript?**

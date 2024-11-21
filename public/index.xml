@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Home on SaruCodes</title>
+        <title>SaruCodes</title>
         <link>http://localhost:1313/</link>
-        <description>Recent content in Home on SaruCodes</description>
+        <description>Recent content on SaruCodes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
         <copyright>Sara Codes</copyright>
@@ -13,7 +13,7 @@
         <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/sobremi/crochet/</guid>
-        <description>&lt;h1 id=&#34;introducción-al-crochet-tu-nueva-pasión-artesanal-&#34;&gt;Introducción al Crochet: Tu Nueva Pasión Artesanal 🧶
+        <description>&lt;img src="http://localhost:1313/img/crochet.jpg" alt="Featured image of post Crochet: Conoce mi hobby 🧶" /&gt;&lt;h1 id=&#34;introducción-al-crochet-tu-nueva-pasión-artesanal-&#34;&gt;Introducción al Crochet: Tu Nueva Pasión Artesanal 🧶
 &lt;/h1&gt;&lt;p&gt;Este último año me he interesado por el crochet, convirtiendolo en uno de mis hobbies. Es relajante y a mi parecer
 sencillo para principiantes, asi que he decidido compartir mis conocimientos con todos y hacer una breve introducción al crochet.
 En este artículo, hablare sobre los puntos básicos, los tipos de ganchos y el material adecuado para tus proyectos.&lt;/p&gt;
@@ -73,12 +73,151 @@ En este artículo, hablare sobre los puntos básicos, los tipos de ganchos y el 
 </description>
         </item>
         <item>
-        <title>Mis Videojuegos Favoritos 🎮</title>
-        <link>http://localhost:1313/sobremi/videojuegos/</link>
+        <title>Shortcodes en Hugo</title>
+        <link>http://localhost:1313/markdown/shortcode/</link>
         <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
         
+        <guid>http://localhost:1313/markdown/shortcode/</guid>
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Shortcodes en Hugo" /&gt;&lt;h1 id=&#34;shortcodes-en-hugo&#34;&gt;Shortcodes en Hugo
+&lt;/h1&gt;&lt;p&gt;Los &lt;strong&gt;shortcodes&lt;/strong&gt; en Hugo son herramientas potentes que permiten insertar contenido enriquecido como imágenes, videos, y otros elementos de manera sencilla en tus archivos Markdown. Estos son algunos de los shortcodes más útiles y cómo emplearlos.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-imágenes&#34;&gt;1. Imágenes
+&lt;/h2&gt;&lt;p&gt;Para insertar imágenes usando el shortcode &lt;code&gt;figure&lt;/code&gt;, puedes agregar una descripción opcional y un pie de foto.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ruta/a/la/imagen.jpg&#34;
+    alt=&#34;Texto alternativo&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Pie de foto opcional&lt;/h4&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Objetos Complejos en JavaScript 💻</title>
+        <link>http://localhost:1313/apuntes/javascript2/</link>
+        <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/apuntes/javascript2/</guid>
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Objetos Complejos en JavaScript 💻" /&gt;&lt;h1 id=&#34;objetos-complejos-en-javascript-&#34;&gt;Objetos Complejos en JavaScript 🚀
+&lt;/h1&gt;&lt;p&gt;En JavaScript, los &lt;strong&gt;objetos complejos&lt;/strong&gt; son estructuras fundamentales que permiten almacenar y gestionar datos más avanzados. Son esenciales para construir aplicaciones dinámicas y trabajar con datos de manera eficiente.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;qué-es-un-objeto&#34;&gt;&lt;strong&gt;¿Qué es un Objeto?&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Un objeto en JavaScript es una colección de pares clave-valor. Estos valores pueden ser de cualquier tipo, incluidos otros objetos, arreglos y funciones.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;objetoEjemplo&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;clave&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;valor&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;numero&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;42&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;booleano&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;arreglo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;objetoAnidado&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;nx&#34;&gt;propiedad&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;valor&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;metodo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Soy un método del objeto&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;};&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;claves-y-valores&#34;&gt;&lt;strong&gt;Claves y Valores:&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Las claves (o propiedades) son cadenas por defecto. Los valores pueden ser de cualquier tipo de dato.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;nombre&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Ana&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;edad&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;25&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;};&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;persona&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;nombre&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// &amp;#34;Ana&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;propiedades-y-métodos&#34;&gt;&lt;strong&gt;Propiedades y Métodos:&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Los objetos pueden tener funciones como propiedades, conocidas como métodos.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;auto&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;marca&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Toyota&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;arrancar&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;El auto está arrancando.&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;};&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;auto&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;arrancar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;());&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// &amp;#34;El auto está arrancando.&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;anidación&#34;&gt;&lt;strong&gt;Anidación:&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Los objetos pueden contener otros objetos o arreglos.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;casa&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;direccion&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Calle Falsa 123&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;habitaciones&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;numero&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;tamanio&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;grande&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;decoracion&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;minimalista&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;moderna&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;};&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;casa&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;habitaciones&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;numero&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// 3
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;casa&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;decoracion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// &amp;#34;moderna&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Mis Videojuegos Favoritos 🎮</title>
+        <link>http://localhost:1313/sobremi/videojuegos/</link>
+        <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+        
         <guid>http://localhost:1313/sobremi/videojuegos/</guid>
-        <description>&lt;h1 id=&#34;mis-videojuegos-favoritos-&#34;&gt;Mis Videojuegos Favoritos 🎮✨
+        <description>&lt;img src="http://localhost:1313/img/videojuego.jpg" alt="Featured image of post Mis Videojuegos Favoritos 🎮" /&gt;&lt;h1 id=&#34;mis-videojuegos-favoritos-&#34;&gt;Mis Videojuegos Favoritos 🎮✨
 &lt;/h1&gt;&lt;p&gt;En esta página, quiero compartir algunos de mis videojuegos favoritos. Hay algo para todos, desde juegos tranquilos y relajantes hasta experiencias cooperativas llenas de emoción. ¡Descubre conmigo estos increíbles títulos!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;cozy-games-&#34;&gt;**Cozy Games: **
@@ -150,94 +289,16 @@ en equipos contra otra gente, esto no quita que sigan teniendo opcion singleplay
 &lt;li&gt;&lt;strong&gt;Creatividad:&lt;/strong&gt; Tanto en juegos como &lt;em&gt;Stardew Valley&lt;/em&gt; o &lt;em&gt;Terraria&lt;/em&gt;, como en modos creativos de Fortnite, disfruto creando cosas únicas.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;Espero que esta lista te inspire a probar alguno de estos títulos. ¿Qué juegos te gustan a ti? ¡Déjame saberlo! 🎮🌟&lt;/p&gt;
+&lt;p&gt;¿Qué juegos te gustan a ti? 🎮🌟&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Shortcodes en Hugo</title>
-        <link>http://localhost:1313/markdown/shortcode/</link>
-        <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/markdown/shortcode/</guid>
-        <description>&lt;h1 id=&#34;shortcodes-en-hugo&#34;&gt;Shortcodes en Hugo
-&lt;/h1&gt;&lt;p&gt;Los &lt;strong&gt;shortcodes&lt;/strong&gt; en Hugo son herramientas potentes que permiten insertar contenido enriquecido como imágenes, videos, y otros elementos de manera sencilla en tus archivos Markdown. Estos son algunos de los shortcodes más útiles y cómo emplearlos.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;1-imágenes&#34;&gt;1. Imágenes
-&lt;/h2&gt;&lt;p&gt;Para insertar imágenes usando el shortcode &lt;code&gt;figure&lt;/code&gt;, puedes agregar una descripción opcional y un pie de foto.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ruta/a/la/imagen.jpg&#34;
-    alt=&#34;Texto alternativo&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Pie de foto opcional&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Viaje a Portugal</title>
-        <link>http://localhost:1313/viajes/portugal/</link>
-        <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/viajes/portugal/</guid>
-        <description>&lt;p&gt;Contenido de la página &amp;ldquo;Viajes&amp;rdquo; aquí&amp;hellip;&lt;/p&gt;
-&lt;h1 id=&#34;lisboa-una-ciudad-de-encanto-historia-y-luz&#34;&gt;Lisboa: Una Ciudad de Encanto, Historia y Luz
-&lt;/h1&gt;&lt;p&gt;Lisboa, la capital de Portugal, es un lugar que combina historia, cultura y una vibrante vida moderna. Con sus calles empedradas, sus miradores panorámicos y su famosa luz dorada, esta ciudad no solo enamora a quienes la visitan, sino que deja una marca inolvidable en el corazón de quienes la recorren. En esta entrada, exploraremos algunos de los rincones más mágicos de Lisboa y te daremos razones para incluirla en tu lista de destinos imprescindibles.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;un-paseo-por-la-historia&#34;&gt;&lt;strong&gt;Un Paseo por la Historia&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;Lisboa es una ciudad cargada de historia, desde los días de los descubrimientos marítimos hasta su resiliencia tras el devastador terremoto de 1755. Cada esquina cuenta una historia, y cada monumento te invita a viajar en el tiempo.&lt;/p&gt;
-&lt;h3 id=&#34;el-barrio-de-alfama&#34;&gt;&lt;strong&gt;El Barrio de Alfama&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y casas de colores pastel adornadas con azulejos tradicionales. Es el lugar perfecto para perderse sin mapa, descubriendo miradores escondidos y pequeñas plazas llenas de vida.&lt;/p&gt;
-&lt;p&gt;No te pierdas el &lt;strong&gt;Castillo de San Jorge&lt;/strong&gt;, un imponente testimonio de la historia medieval de la ciudad, desde donde podrás disfrutar de una de las vistas más espectaculares de Lisboa.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;los-imperdibles-de-lisboa&#34;&gt;&lt;strong&gt;Los Imperdibles de Lisboa&lt;/strong&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;la-torre-de-belém&#34;&gt;&lt;strong&gt;La Torre de Belém&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Símbolo de los descubrimientos marítimos portugueses, la Torre de Belém es uno de los monumentos más emblemáticos de Lisboa. Situada a orillas del río Tajo, esta fortaleza del siglo XVI es una joya arquitectónica que mezcla estilos manuelino y gótico.&lt;/p&gt;
-&lt;h3 id=&#34;el-monasterio-de-los-jerónimos&#34;&gt;&lt;strong&gt;El Monasterio de los Jerónimos&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;A solo un paseo de la Torre de Belém se encuentra el Monasterio de los Jerónimos, otra obra maestra del estilo manuelino. Este lugar, declarado Patrimonio de la Humanidad, es un tributo a la era dorada de las exploraciones portuguesas.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;la-luz-de-lisboa-y-sus-miradores&#34;&gt;&lt;strong&gt;La Luz de Lisboa y sus Miradores&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;Lisboa es conocida por su luz única, que da a la ciudad un brillo especial, especialmente al atardecer. Para disfrutar de esta magia, visita alguno de sus famosos &lt;strong&gt;miradouros&lt;/strong&gt; (miradores):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Miradouro de Santa Catarina&lt;/strong&gt;: Ideal para ver el río Tajo mientras disfrutas de un ambiente relajado.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Miradouro da Senhora do Monte&lt;/strong&gt;: Perfecto para obtener una vista panorámica de toda la ciudad.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Miradouro de Santa Luzia&lt;/strong&gt;: Un rincón romántico rodeado de buganvillas y arte en azulejos.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;sabores-de-lisboa&#34;&gt;&lt;strong&gt;Sabores de Lisboa&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;No puedes hablar de Lisboa sin mencionar su deliciosa gastronomía. Aquí, cada comida es una experiencia que mezcla tradición y frescura.&lt;/p&gt;
-&lt;h3 id=&#34;pasteles-de-nata&#34;&gt;&lt;strong&gt;Pasteles de Nata&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Es imposible visitar Lisboa y no probar un &lt;strong&gt;pastel de nata&lt;/strong&gt;. Estas tartaletas de crema, especialmente las de la famosa pastelería &lt;strong&gt;Pastéis de Belém&lt;/strong&gt;, son el acompañamiento perfecto para un café portugués.&lt;/p&gt;
-&lt;h3 id=&#34;bacalhau-à-brás&#34;&gt;&lt;strong&gt;Bacalhau à Brás&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;El bacalao es el ingrediente estrella de la cocina portuguesa, y el &lt;strong&gt;Bacalhau à Brás&lt;/strong&gt;, una mezcla de bacalao desmenuzado con cebolla, patatas fritas y huevo, es uno de los platos más queridos por los locales.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;lisboa-de-noche&#34;&gt;&lt;strong&gt;Lisboa de Noche&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;Cuando cae el sol, Lisboa se transforma en una ciudad llena de vida nocturna y música. El &lt;strong&gt;fado&lt;/strong&gt;, declarado Patrimonio Inmaterial de la Humanidad, es el alma de Lisboa. Puedes escuchar este género musical en pequeños bares del barrio de Alfama o en casas de fado tradicionales como &lt;strong&gt;A Baiuca&lt;/strong&gt; o &lt;strong&gt;Clube de Fado&lt;/strong&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;consejos-para-tu-viaje&#34;&gt;&lt;strong&gt;Consejos para tu Viaje&lt;/strong&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Moverse por Lisboa&lt;/strong&gt;: Los tranvías amarillos son una manera clásica y divertida de recorrer la ciudad, especialmente la línea 28, que pasa por los principales puntos de interés.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mejor Época para Visitar&lt;/strong&gt;: La primavera y el otoño son ideales para disfrutar del clima agradable sin las multitudes del verano.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Prepárate para Caminar&lt;/strong&gt;: Lisboa está llena de colinas, así que lleva calzado cómodo y prepárate para muchas subidas y bajadas.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;conclusión&#34;&gt;&lt;strong&gt;Conclusión&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;Lisboa no es solo una ciudad, es una experiencia. Su luz, su historia, su música y su gente la convierten en un lugar único que invita a ser explorado con calma y curiosidad. Desde los callejones de Alfama hasta las vistas del Tajo, Lisboa te espera con los brazos abiertos y un pastel de nata listo para compartir.&lt;/p&gt;
-&lt;p&gt;¿Has visitado Lisboa? ¿Qué fue lo que más te enamoró de esta ciudad? Déjanos tus comentarios y comparte tus recomendaciones. ¡Nos encantaría saber más!&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Introducción a JavaScript</title>
+        <title>Introducción a JavaScript 💻</title>
         <link>http://localhost:1313/apuntes/javascript/</link>
-        <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/apuntes/javascript/</guid>
-        <description>&lt;h2 id=&#34;qué-es-javascript&#34;&gt;&lt;strong&gt;¿Qué es JavaScript?&lt;/strong&gt;
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Introducción a JavaScript 💻" /&gt;&lt;h2 id=&#34;qué-es-javascript&#34;&gt;&lt;strong&gt;¿Qué es JavaScript?&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;JavaScript es un lenguaje de programación que se utiliza principalmente para agregar interactividad a las páginas web. Es compatible con todos los navegadores modernos y es esencial en el desarrollo web.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;tipos-de-datos-en-javascript&#34;&gt;&lt;strong&gt;Tipos de datos en JavaScript&lt;/strong&gt;
@@ -315,12 +376,58 @@ en equipos contra otra gente, esto no quita que sigan teniendo opcion singleplay
 </description>
         </item>
         <item>
+        <title>Viaje a Portugal ✈️</title>
+        <link>http://localhost:1313/viajes/portugal/</link>
+        <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/viajes/portugal/</guid>
+        <description>&lt;img src="http://localhost:1313/img/lisboa.jpg" alt="Featured image of post Viaje a Portugal ✈️" /&gt;&lt;p&gt;Contenido de la página &amp;ldquo;Viajes&amp;rdquo; aquí&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;lisboa-una-ciudad-de-encanto-historia-y-luz&#34;&gt;Lisboa: Una Ciudad de Encanto, Historia y Luz
+&lt;/h1&gt;&lt;p&gt;El mes pasado tuve la oportunidad de visitar una de las ciudades más bonitas que he visto hasta el momento.
+Lisboa, la capital de Portugal, es un lugar que combina historia, cultura y una vibrante vida moderna.
+Con sus calles empedradas, sus miradores panorámicos y su famosa luz dorada, esta ciudad no solo enamora a quienes la visitan, sino que deja una marca inolvidable en el corazón de quienes la recorren.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;un-paseo-por-la-historia&#34;&gt;&lt;strong&gt;Un Paseo por la Historia&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Lisboa es una ciudad cargada de historia, desde los días de los descubrimientos marítimos hasta su resiliencia tras el devastador terremoto de 1755.
+Cada esquina cuenta una historia, y cada monumento te invita a viajar en el tiempo. No podrás parar de mirar la bella arquitectura, sus tranvías amarillos
+antiguos y los numerosos monumentos.&lt;/p&gt;
+&lt;h3 id=&#34;el-barrio-de-alfama&#34;&gt;&lt;strong&gt;El Barrio de Alfama&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y casas de colores pastel adornadas con azulejos tradicionales. Es el lugar perfecto para perderse sin mapa, descubriendo miradores escondidos y pequeñas plazas llenas de vida.&lt;/p&gt;
+&lt;p&gt;No te pierdas el &lt;strong&gt;Castillo de San Jorge&lt;/strong&gt;, un imponente testimonio de la historia medieval de la ciudad, desde donde podrás disfrutar de una de las vistas más espectaculares de Lisboa.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;sabores-de-lisboa&#34;&gt;&lt;strong&gt;Sabores de Lisboa&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;No puedes hablar de Lisboa sin mencionar su deliciosa gastronomía. Aquí, cada comida es una experiencia que mezcla tradición y frescura.&lt;/p&gt;
+&lt;h3 id=&#34;pasteles-de-nata&#34;&gt;&lt;strong&gt;Pasteles de Nata&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Es imposible visitar Lisboa y no probar un &lt;strong&gt;pastel de nata&lt;/strong&gt;. Estas tartaletas de crema, especialmente las de la famosa pastelería &lt;strong&gt;Pastéis de Belém&lt;/strong&gt;, son el acompañamiento perfecto para un café portugués.&lt;/p&gt;
+&lt;h3 id=&#34;bacalhau-à-brás&#34;&gt;&lt;strong&gt;Bacalhau à Brás&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;El bacalao es el ingrediente estrella de la cocina portuguesa, y el &lt;strong&gt;Bacalhau à Brás&lt;/strong&gt;, una mezcla de bacalao desmenuzado con cebolla, patatas fritas y huevo, es uno de los platos más queridos por los locales.&lt;/p&gt;
+&lt;h3 id=&#34;francesinhas&#34;&gt;&lt;strong&gt;Francesinhas&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Un sandwich con carne, jamón de york, queso y huevo con salsa de tomate, uno de los platos de la cocina de aprovechamiento más famosos de todo Portugal.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;lisboa-de-noche&#34;&gt;&lt;strong&gt;Lisboa de Noche&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Cuando cae el sol, Lisboa se transforma en una ciudad llena de vida nocturna y música. El &lt;strong&gt;fado&lt;/strong&gt;, declarado Patrimonio Inmaterial de la Humanidad, es el alma de Lisboa. Puedes escuchar este género musical en pequeños bares del barrio de Alfama.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;consejos-para-tu-viaje&#34;&gt;&lt;strong&gt;Consejos para tu Viaje&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Moverse por Lisboa&lt;/strong&gt;: Los tranvías amarillos son una manera clásica y divertida de recorrer la ciudad, para llegar al resto de localizaciones recomiendo Uber.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mejor Época para Visitar&lt;/strong&gt;: La primavera y el otoño son ideales para disfrutar del clima agradable sin las multitudes del verano.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prepárate para Caminar&lt;/strong&gt;: Lleva calzado cómodo, muchas calles son de adoquines y con subidas y bajadas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusión&#34;&gt;&lt;strong&gt;Conclusión&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Lisboa ha sido una experiencia a muchos niveles, os recomiendo visitarla si os es posible, se puede llegar en autobús
+o avión, incluso si se quisiera en coche.
+Su luz, su historia, su música y su gente la convierten a esta ciudad en un lugar único que invita a ser explorado con calma y curiosidad.
+¿Has visitado Lisboa? ¿Qué fue lo que más te enamoró de esta ciudad?&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Markdown básico</title>
         <link>http://localhost:1313/markdown/markdown/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/markdown/markdown/</guid>
-        <description>&lt;h1 id=&#34;guía-de-sintaxis-markdown&#34;&gt;Guía de Sintaxis Markdown
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Markdown básico" /&gt;&lt;h1 id=&#34;guía-de-sintaxis-markdown&#34;&gt;Guía de Sintaxis Markdown
 &lt;/h1&gt;&lt;p&gt;Este artículo ofrece un ejemplo básico de la sintaxis de Markdown que puedes usar en archivos de contenido Hugo, además de mostrar cómo se aplican los elementos HTML básicos decorados con CSS en un tema Hugo.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;1-encabezados&#34;&gt;1. Encabezados

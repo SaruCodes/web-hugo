@@ -51,53 +51,30 @@ params:
       local: true
       src: "img/avatar.jpg"
 
-  # Artículos
+
 article:
   list: true
   per_page: 5
   filter:
     category: "blog"
-    tags: ["tutorial", "javascript"]
+    tags: ["blog", "viajes", "markdown"]
   order: desc
   toc: true
   share: true
   author: true
 
-    # Comentarios
-  comments:
-    enabled: true
-    provider: disqus
-    disqus:
-      shortname: "sarucodes"
-    utterances:
-      repo: "tuusuario/tu-repo"
-      issueTerm: "pathname"
-      label: "Comentario"
-    giscus:
-      repo: "tuusuario/tu-repo"
-      repoID: "repo-id"
-      category: "General"
-      categoryID: "category-id"
 
-  # Redes sociales (OpenGraph y Twitter)
-  opengraph:
-    twitter:
-      site: "@tuusuario"
-      card: "summary_large_image"
-
-  # Imagen por defecto
   defaultImage:
     opengraph:
       enabled: true
       local: true
-      src: "img/default.jpg"
+      src: "/img/default.jpg"
 
-  # Esquema de colores
+
   colorScheme:
     toggle: true
     default: auto
 
-  # Procesamiento de imágenes
   imageProcessing:
     cover:
       enabled: true
@@ -115,9 +92,9 @@ widgets:
 
 menu:
   main:
-    - identifier: "about"
-      name: "Sobre mí"
-      url: "/about/"
+    - identifier: "home"
+      name: "Home"
+      url: "/"
       weight: 1
     - identifier: "viajes"
       name: "Viajes"
@@ -138,7 +115,7 @@ menu:
   social:
     - identifier: "github"
       name: "GitHub"
-      url: "https://github.com/tuusuario"
+      url: "https://github.com/SaruCodes"
       params:
         icon: "brand-github"
     - identifier: "twitter"

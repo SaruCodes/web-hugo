@@ -5,6 +5,7 @@ draft: false
 description: "Un paseo por los videojuegos que más me gustan."
 tags: ["videojuegos", "blog", "gaming"]
 categories: ["entretenimiento"]
+image: "/img/videojuego.jpg"
 ---
 
 # Mis Videojuegos Favoritos 🎮✨
@@ -90,4 +91,4 @@ Un juego de supervivencia zombie donde el trabajo en equipo es clave. Diseña es
 
 ---
 
-Espero que esta lista te inspire a probar alguno de estos títulos. ¿Qué juegos te gustan a ti? ¡Déjame saberlo! 🎮🌟
+¿Qué juegos te gustan a ti? 🎮🌟
