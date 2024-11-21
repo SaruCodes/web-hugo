@@ -1,8 +1,8 @@
 ---
-title: "Introducción a JavaScript"
-date: 2024-11-20
+title: "Introducción a JavaScript 💻"
+date: 2024-11-18
 draft: false
-tags: ["javascript", "programación", "tutorial"]
+tags: ["javascript", "programación", "apuntes"]
 categories: ["programación"]
 ---
 

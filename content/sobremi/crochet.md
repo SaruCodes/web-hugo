@@ -1,5 +1,5 @@
 ---
-title: "Introducción al Crochet: Conoce mi hobby!"
+title: "Crochet: Conoce mi hobby 🧶"
 date: 2024-11-21
 category: "Artesanía"
 tags:
@@ -8,6 +8,7 @@ tags:
   - manualidades
 summary: "Descubre uno de mis hobbies, el crochet, también te doy consejos sobre como empezar."
 cover: "/images/crochet-guide.jpg"
+categories: ["entretenimiento"]
 ---
 
 # Introducción al Crochet: Tu Nueva Pasión Artesanal 🧶

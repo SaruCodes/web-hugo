@@ -2,9 +2,9 @@
 title: "Markdown básico"
 date: 2024-11-15
 layout: "single"
+tags: ["markdown","util"]
 description: "Una guía básica sobre la sintaxis de Markdown"
 draft: false
-
 
 ---
 
@@ -26,4 +26,5 @@ Los siguientes elementos HTML `<h1>—<h6>` representan seis niveles de encabeza
 ##### H5
 ###### H6
 
+```
 

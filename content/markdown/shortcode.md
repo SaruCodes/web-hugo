@@ -2,7 +2,8 @@
 title: "Shortcodes en Hugo"
 date: 2024-11-21
 layout: "single"
-description: "Aprende cómo usar shortcodes en Hugo para insertar elementos como imágenes y videos de YouTube."
+tags: ["markdown","hugo", "util"]
+description: "Aprende cómo usar shortcodes en Hugo."
 draft: false
 ---
 
