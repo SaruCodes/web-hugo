@@ -14,7 +14,7 @@ En esta página, quiero compartir algunos de mis videojuegos favoritos. Hay algo
 
 ---
 
-## **Cozy Games: **
+## **Cozy Games:**
 Los cozy games son juegos tranquilos, normalmente "Farming Simulator" o simulador de granja en español en los que debes hacer tareas
 pero son más calmados que otros videojuegos. Usualmente tienen un factor "Cozy" esto significa que son acogedores, dejandolo en evidencia
 en su jugabilidad, nombre, estilo de arte etc...
@@ -23,25 +23,31 @@ en su jugabilidad, nombre, estilo de arte etc...
 
 ### **1. Stardew Valley** 🌾
 Un juego de simulación de granja que permite a los jugadores cultivar, pescar, criar animales y formar relaciones con los habitantes de Pelican Town. 
-Perfecto para desconectar y disfrutar de un ambiente rural encantador.
+Perfecto para desconectar y disfrutar de un ambiente rural encantador. Además tiene una comunidad muy activa que aporta mods para añadir funcionalidades al juego.
 
 - **Género:** Simulación, Aventura
 - **Plataformas:** PC, Nintendo Switch, PlayStation, Xbox, Móviles
 - **Aspectos destacados:** Personalización de la granja, exploración de minas y narrativa emocional.
 
+{{< youtube 8A7A1X1TVNc >}}
+
 ### **2. Animal Crossing: New Horizons** 🏝️
-Un juego social relajante en el que construyes y personalizas tu isla, interactúas con adorables aldeanos animales y decoras tu hogar. ¡Ideal para jugar a tu propio ritmo!
+Quinta entrega de la saga relajante en la que construyes y personalizas tu isla, interactúas con adorables aldeanos animales y decoras tu hogar. ¡Ideal para jugar a tu propio ritmo!
 
 - **Género:** Simulación, Social
 - **Plataformas:** Nintendo Switch
 - **Aspectos destacados:** Eventos estacionales, diseño creativo y comunidad acogedora.
 
+{{< youtube 5YPxiTLMcdg >}}
+
 ### **3. Terraria** 🛠️
-Un sandbox en 2D que combina exploración, construcción y combates épicos. Aunque tiene momentos intensos, su flexibilidad permite disfrutarlo de forma tranquila si lo prefieres.
+Un sandbox en 2D que combina exploración, construcción y combates épicos. Aunque tiene momentos intensos, se puede disfrutar sin pelear.
 
 - **Género:** Aventura, Supervivencia
 - **Plataformas:** PC, Consolas, Móviles
 - **Aspectos destacados:** Biomas únicos, jefes desafiantes y multijugador cooperativo.
+
+{{< youtube w7uOhFTrrq0 >}}
 
 ### **4. Cozy Grove** 🪵
 Un juego diario encantador que mezcla decoración y exploración en una isla habitada por adorables fantasmas. Con un estilo artístico pintado a mano, Cozy Grove invita a relajarte mientras completas pequeñas tareas.
@@ -49,6 +55,8 @@ Un juego diario encantador que mezcla decoración y exploración en una isla hab
 - **Género:** Simulación, Aventura
 - **Plataformas:** PC, Nintendo Switch, PlayStation, Xbox, Móviles
 - **Aspectos destacados:** Ritmo pausado, narrativa cálida y personalización de tu entorno.
+
+{{< youtube 35nCCbXBhw8 >}}
 
 ---
 
@@ -75,7 +83,7 @@ Un juego de terror multijugador donde puedes jugar como un asesino o un sobreviv
 - **Aspectos destacados:** Tensión constante, personajes icónicos del cine de terror y estrategia.
 
 ### **3. Project Zomboid** 🧟
-Un juego de supervivencia zombie donde el trabajo en equipo es clave. Diseña estrategias, comparte recursos y enfréntate a hordas de no-muertos con amigos en este desafiante mundo abierto.
+Un juego de supervivencia zombie donde el trabajo en equipo es clave. Diseña estrategias, comparte recursos y enfréntate a hordas de no-muertos con amigos ¿Cuánto podrás sobrevivir?
 
 - **Género:** Supervivencia, Sandbox
 - **Plataformas:** PC
@@ -83,12 +91,4 @@ Un juego de supervivencia zombie donde el trabajo en equipo es clave. Diseña es
 
 ---
 
-## **¿Por qué me encantan estos juegos?**
-
-- **Relajación:** Los *cozy games* me permiten desconectar, explorar mundos tranquilos y disfrutar de pequeñas alegrías.
-- **Conexión:** Los juegos cooperativos online son una forma divertida de mantenerme conectado con amigos y compartir aventuras juntos.
-- **Creatividad:** Tanto en juegos como *Stardew Valley* o *Terraria*, como en modos creativos de Fortnite, disfruto creando cosas únicas.
-
----
-
-¿Qué juegos te gustan a ti? 🎮🌟
+Y tu ¿A qué juegas? ¿Qué juegos te gustan a ti? 🎮🌟

@@ -57,58 +57,30 @@ antiguos y los numerosos monumentos.&lt;/p&gt;
 &lt;h3 id=&#34;francesinhas&#34;&gt;&lt;strong&gt;Francesinhas&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Un sandwich con carne, jamón de york, queso y huevo con salsa de tomate, uno de los platos de la cocina de aprovechamiento más famosos de todo Portugal.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;lisboa-de-noche&#34;&gt;&lt;strong&gt;Lisboa de Noche&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;Cuando cae el sol, Lisboa se transforma en una ciudad llena de vida nocturna y música. El &lt;strong&gt;fado&lt;/strong&gt;, declarado Patrimonio Inmaterial de la Humanidad, es el alma de Lisboa. Puedes escuchar este género musical en pequeños bares del barrio de Alfama.&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;consejos-para-tu-viaje&#34;&gt;&lt;strong&gt;Consejos para tu Viaje&lt;/strong&gt;
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Moverse por Lisboa&lt;/strong&gt;: Los tranvías amarillos son una manera clásica y divertida de recorrer la ciudad, para llegar al resto de localizaciones recomiendo Uber.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mejor Época para Visitar&lt;/strong&gt;: La primavera y el otoño son ideales para disfrutar del clima agradable sin las multitudes del verano.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Prepárate para Caminar&lt;/strong&gt;: Lleva calzado cómodo, muchas calles son de adoquines y con subidas y bajadas.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lisboa4.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Imagen de un tranvía amarillo tipico de Lisboa&#34;
+	
+	
+&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;conclusión&#34;&gt;&lt;strong&gt;Conclusión&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;Lisboa ha sido una experiencia a muchos niveles, os recomiendo visitarla si os es posible, se puede llegar en autobús
 o avión, incluso si se quisiera en coche.
 Su luz, su historia, su música y su gente la convierten a esta ciudad en un lugar único que invita a ser explorado con calma y curiosidad.
 ¿Has visitado Lisboa? ¿Qué fue lo que más te enamoró de esta ciudad?&lt;/p&gt;
-&lt;h2 id=&#34;carrusel-de-imágenes&#34;&gt;Carrusel de Imágenes
-&lt;/h2&gt;&lt;div class=&#34;swiper-container&#34;&gt;
-    &lt;div class=&#34;swiper-wrapper&#34;&gt;
-        
-        &lt;div class=&#34;swiper-slide&#34;&gt;
-            &lt;img src=&#34;http://localhost:1313/img/lisboa2.jpg&#34; alt=&#34;Imagen 1&#34;&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&#34;swiper-slide&#34;&gt;
-            &lt;img src=&#34;http://localhost:1313/img/lisboa3.jpg&#34; alt=&#34;Imagen 2&#34;&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&#34;swiper-slide&#34;&gt;
-            &lt;img src=&#34;http://localhost:1313/img/lisboa4.jpg&#34; alt=&#34;Imagen 3&#34;&gt;
-        &lt;/div&gt;
-        
-    &lt;/div&gt;
-    &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-    var swiper = new Swiper(&#39;.swiper-container&#39;, {
-        loop: true,
-        pagination: {
-            el: &#39;.swiper-pagination&#39;,
-            clickable: true,
-        },
-        navigation: {
-            nextEl: &#39;.swiper-button-next&#39;,
-            prevEl: &#39;.swiper-button-prev&#39;,
-        },
-    });
-&lt;/script&gt;
-
-</description>
+&lt;h2 id=&#34;carousel-de-imágenes-del-viaje&#34;&gt;&lt;strong&gt;Carousel de imágenes del viaje&lt;/strong&gt;
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>Viaje a Liverpool y Chester 🚕</title>

@@ -75,17 +75,14 @@ Un sandwich con carne, jamón de york, queso y huevo con salsa de tomate, uno de
 
 ---
 
-## **Lisboa de Noche**
-
-Cuando cae el sol, Lisboa se transforma en una ciudad llena de vida nocturna y música. El **fado**, declarado Patrimonio Inmaterial de la Humanidad, es el alma de Lisboa. Puedes escuchar este género musical en pequeños bares del barrio de Alfama.
-
----
-
 ## **Consejos para tu Viaje**
 
 - **Moverse por Lisboa**: Los tranvías amarillos son una manera clásica y divertida de recorrer la ciudad, para llegar al resto de localizaciones recomiendo Uber.
 - **Mejor Época para Visitar**: La primavera y el otoño son ideales para disfrutar del clima agradable sin las multitudes del verano.
 - **Prepárate para Caminar**: Lleva calzado cómodo, muchas calles son de adoquines y con subidas y bajadas.
+
+![Imagen de un tranvía amarillo tipico de Lisboa](/img/lisboa4.jpg)
+
 
 ---
 
@@ -96,9 +93,5 @@ o avión, incluso si se quisiera en coche.
 Su luz, su historia, su música y su gente la convierten a esta ciudad en un lugar único que invita a ser explorado con calma y curiosidad.
 ¿Has visitado Lisboa? ¿Qué fue lo que más te enamoró de esta ciudad?
 
-## Carrusel de Imágenes
-
-{{< carousel images="/img/lisboa2.jpg" "/img/lisboa3.jpg" "/img/lisboa4.jpg" >}}
-
-
+## **Carousel de imágenes del viaje**
 
