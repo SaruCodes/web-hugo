@@ -60,40 +60,21 @@ console.log(auto.arrancar()); // "El auto está arrancando."
 ```
 
 ## **Anidación:**
-Los objetos pueden contener otros objetos o arreglos.
+Los objetos pueden contener otros objetos o arreglos como valores. Esta capacidad es útil para representar datos jerárquicos o estructurados.
 
 ```javascript
 let casa = {
-direccion: "Calle Falsa 123",
-habitaciones: {
-numero: 3,
-tamanio: "grande"
-},
-decoracion: ["minimalista", "moderna"]
+    direccion: "Calle Falsa 123",
+    habitaciones: {
+        numero: 3,
+        tamanio: "grande"
+    },
+    decoracion: ["minimalista", "moderna"]
 };
+
+// Acceso a objetos anidados
 console.log(casa.habitaciones.numero); // 3
+
+// Acceso a arreglos dentro de objetos
 console.log(casa.decoracion[1]); // "moderna"
-```
-
-## **Trabajando con Objetos**
-
-```javascript
-console.log(persona.nombre); // "Ana"
-```
-
-```javascript
-let propiedad = "edad";
-console.log(persona[propiedad]); // 25
-```
-
-
-```javascript
-persona.ocupacion = "Desarrolladora"; // Agregar
-persona.edad = 26;                   // Modificar
-console.log(persona);
-```
-
-```javascript
-delete persona.ocupacion;
-console.log(persona);
 ```

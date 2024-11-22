@@ -95,3 +95,10 @@ Lisboa ha sido una experiencia a muchos niveles, os recomiendo visitarla si os e
 o avión, incluso si se quisiera en coche. 
 Su luz, su historia, su música y su gente la convierten a esta ciudad en un lugar único que invita a ser explorado con calma y curiosidad.
 ¿Has visitado Lisboa? ¿Qué fue lo que más te enamoró de esta ciudad?
+
+## Carrusel de Imágenes
+
+{{< carousel images="/img/lisboa2.jpg" "/img/lisboa3.jpg" "/img/lisboa4.jpg" >}}
+
+
+

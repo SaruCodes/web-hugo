@@ -74,7 +74,7 @@ Se utiliza para unir partes de un proyecto o para dar un acabado limpio.
 
 El crochet no solo es divertido, sino también terapéutico. Con el tiempo, podrás crear prendas de vestir, mantas decorativas, juguetes y más. Además, es una manera fantástica de personalizar regalos o incluso de iniciar un pequeño negocio.
 
-¡Así que toma tu aguja, elige un ovillo de tu color favorito y comienza a crear! El mundo del crochet te espera con infinitas posibilidades. 🌟
+¡Así que toma tu aguja, elige un ovillo de tu color favorito y comienza a crear! Añado un tutorial para que podais poneros manos a la obra. 🌟
 
 {{< youtube zzWX2dx8ufc >}}
 

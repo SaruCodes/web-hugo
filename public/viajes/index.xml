@@ -72,6 +72,42 @@ antiguos y los numerosos monumentos.&lt;/p&gt;
 o avión, incluso si se quisiera en coche.
 Su luz, su historia, su música y su gente la convierten a esta ciudad en un lugar único que invita a ser explorado con calma y curiosidad.
 ¿Has visitado Lisboa? ¿Qué fue lo que más te enamoró de esta ciudad?&lt;/p&gt;
+&lt;h2 id=&#34;carrusel-de-imágenes&#34;&gt;Carrusel de Imágenes
+&lt;/h2&gt;&lt;div class=&#34;swiper-container&#34;&gt;
+    &lt;div class=&#34;swiper-wrapper&#34;&gt;
+        
+        &lt;div class=&#34;swiper-slide&#34;&gt;
+            &lt;img src=&#34;http://localhost:1313/img/lisboa2.jpg&#34; alt=&#34;Imagen 1&#34;&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;swiper-slide&#34;&gt;
+            &lt;img src=&#34;http://localhost:1313/img/lisboa3.jpg&#34; alt=&#34;Imagen 2&#34;&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;swiper-slide&#34;&gt;
+            &lt;img src=&#34;http://localhost:1313/img/lisboa4.jpg&#34; alt=&#34;Imagen 3&#34;&gt;
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    var swiper = new Swiper(&#39;.swiper-container&#39;, {
+        loop: true,
+        pagination: {
+            el: &#39;.swiper-pagination&#39;,
+            clickable: true,
+        },
+        navigation: {
+            nextEl: &#39;.swiper-button-next&#39;,
+            prevEl: &#39;.swiper-button-prev&#39;,
+        },
+    });
+&lt;/script&gt;
+
 </description>
         </item>
         <item>
@@ -119,6 +155,15 @@ Hace años tuve oportunidad de visitarla y quiero recomendar sitios emblematicos
 Además, frecen algo para todos: música, historia, deportes, y una cálida hospitalidad que te hará sentir como en casa.
 Ya sea que estés cantando al ritmo de &lt;strong&gt;The Beatles&lt;/strong&gt; o paseando por las calles adoquinadas de Chester, cada rincón tiene una historia que contar.&lt;/p&gt;
 &lt;p&gt;Para terminar este post añado una de las canciones que más marcó mi viaje, por supuesto, de The Beatles 🎸&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/S-rB0pHI9fU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
         </item>
         
