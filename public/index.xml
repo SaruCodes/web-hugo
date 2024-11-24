@@ -422,29 +422,50 @@ Con sus calles empedradas, sus miradores panorámicos y su famosa luz dorada, es
 Cada esquina cuenta una historia, y cada monumento te invita a viajar en el tiempo. No podrás parar de mirar la bella arquitectura, sus tranvías amarillos
 antiguos y los numerosos monumentos.&lt;/p&gt;
 &lt;h2 id=&#34;lugares-emblemáticos-de-la-ciudad&#34;&gt;&lt;strong&gt;Lugares emblemáticos de la ciudad&lt;/strong&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;el-barrio-de-alfama&#34;&gt;&lt;strong&gt;El Barrio de Alfama&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y casas de colores pastel adornadas con azulejos tradicionales. Es el lugar perfecto para perderse sin mapa, descubriendo miradores escondidos y pequeñas plazas llenas de vida.&lt;/p&gt;
+&lt;/h2&gt;&lt;h2 id=&#34;1-el-barrio-de-alfama&#34;&gt;&lt;strong&gt;1. El Barrio de Alfama&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y casas de colores pastel adornadas con azulejos tradicionales. Es el lugar perfecto para perderse sin mapa, descubriendo miradores escondidos y pequeñas plazas llenas de vida.&lt;/p&gt;
 &lt;p&gt;No te pierdas el &lt;strong&gt;Castillo de San Jorge&lt;/strong&gt;, un imponente testimonio de la historia medieval de la ciudad, desde donde podrás disfrutar de una de las vistas más espectaculares de Lisboa.&lt;/p&gt;
-&lt;h2 id=&#34;3-castillo-de-san-jorge-&#34;&gt;&lt;strong&gt;3. Castillo de San Jorge&lt;/strong&gt; 🏯
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lisboa3.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Imagen del barrio de Alfama desde lo alto&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-castillo-de-san-jorge-&#34;&gt;&lt;strong&gt;2. Castillo de San Jorge&lt;/strong&gt; 🏯
 &lt;/h2&gt;&lt;p&gt;Situado en una colina con vistas panorámicas de la ciudad, este castillo medieval fue una fortaleza clave durante la historia de Lisboa. Es perfecto para explorar murallas y disfrutar de vistas impresionantes.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Ubicación:&lt;/strong&gt; Alfama&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dato curioso:&lt;/strong&gt; Fue residencia real durante el reinado de los moros.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;4-elevador-de-santa-justa-&#34;&gt;&lt;strong&gt;4. Elevador de Santa Justa&lt;/strong&gt; 🛗
+&lt;h2 id=&#34;3-elevador-de-santa-justa-&#34;&gt;&lt;strong&gt;3. Elevador de Santa Justa&lt;/strong&gt; 🛗
 &lt;/h2&gt;&lt;p&gt;Una maravilla de ingeniería del siglo XIX, este ascensor conecta los barrios de Baixa y Chiado. Su diseño neogótico lo convierte en una atracción única.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Ubicación:&lt;/strong&gt; Baixa&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dato curioso:&lt;/strong&gt; Diseñado por Raoul Mesnier de Ponsard, discípulo de Gustave Eiffel.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;5-plaza-del-comercio-praça-do-comércio-&#34;&gt;&lt;strong&gt;5. Plaza del Comercio (Praça do Comércio)&lt;/strong&gt; 🌟
+&lt;h2 id=&#34;4-plaza-del-comercio-praça-do-comércio-&#34;&gt;&lt;strong&gt;4. Plaza del Comercio (Praça do Comércio)&lt;/strong&gt; 🌟
 &lt;/h2&gt;&lt;p&gt;Una de las plazas más grandes y hermosas de Europa, ubicada junto al río Tajo. Representa la reconstrucción de la ciudad tras el terremoto de 1755.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Ubicación:&lt;/strong&gt; Baixa&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dato curioso:&lt;/strong&gt; Aquí se encuentra el icónico Arco de Rua Augusta.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lisboa2.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Imagen de la plaza del comercio de Lisboa&#34;
+	
+	
+&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;sabores-de-lisboa&#34;&gt;&lt;strong&gt;Sabores de Lisboa&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;No puedes hablar de Lisboa sin mencionar su deliciosa gastronomía. Aquí, cada comida es una experiencia que mezcla tradición y frescura.&lt;/p&gt;
@@ -481,6 +502,103 @@ Su luz, su historia, su música y su gente la convierten a esta ciudad en un lug
 &lt;/h2&gt;</description>
         </item>
         <item>
+        <title>Markdown avanzado</title>
+        <link>http://localhost:1313/markdown/markdown2/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/markdown/markdown2/</guid>
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Markdown avanzado" /&gt;&lt;h1 id=&#34;guía-avanzada-de-markdown-y-shortcodes-en-hugo&#34;&gt;Guía Avanzada de Markdown y Shortcodes en Hugo
+&lt;/h1&gt;&lt;p&gt;Markdown es un lenguaje de marcado ligero que facilita la creación de contenido. En esta guía, exploraremos características avanzadas y cómo Hugo permite extender su funcionalidad con &lt;strong&gt;shortcodes&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;características-avanzadas-de-markdown&#34;&gt;Características Avanzadas de Markdown
+&lt;/h2&gt;&lt;h3 id=&#34;1-tablas&#34;&gt;1. Tablas
+&lt;/h3&gt;&lt;p&gt;Puedes crear tablas para organizar datos de forma sencilla:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Columna 1 | Columna 2 | Columna 3 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;|-----------|-----------|-----------|
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Dato 1    | Dato 2    | Dato 3    |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Dato A    | Dato B    | Dato C    |
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Columna 1&lt;/th&gt;
+          &lt;th&gt;Columna 2&lt;/th&gt;
+          &lt;th&gt;Columna 3&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dato 1&lt;/td&gt;
+          &lt;td&gt;Dato 2&lt;/td&gt;
+          &lt;td&gt;Dato 3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dato A&lt;/td&gt;
+          &lt;td&gt;Dato B&lt;/td&gt;
+          &lt;td&gt;Dato C&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;shortcode&#34;&gt;Shortcode
+&lt;/h2&gt;&lt;h2 id=&#34;1-uso-de-shortcodes-predeterminados&#34;&gt;1. Uso de Shortcodes Predeterminados
+&lt;/h2&gt;&lt;p&gt;Hugo incluye varios shortcodes predefinidos. Por ejemplo:&lt;/p&gt;
+&lt;h3 id=&#34;insertar-un-video-de-youtube&#34;&gt;Insertar un video de YouTube
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/a7_WFUlFS94&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;### Mostrar código en línea
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;```markdown
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;saludo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;nombre&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;sa&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hola, &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;nombre&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;!&amp;#34;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;2-crear-tus-propios-shortcodes&#34;&gt;2. Crear tus propios Shortcodes
+&lt;/h2&gt;&lt;p&gt;Puedes definir shortcodes personalizados en el directorio layouts/shortcodes/.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Markdown básico</title>
         <link>http://localhost:1313/markdown/markdown/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -509,7 +627,89 @@ Su luz, su historia, su música y su gente la convierten a esta ciudad en un lug
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;###### H6
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;2-estilos-de-texto&#34;&gt;2. Estilos de Texto
+&lt;/h2&gt;&lt;p&gt;Markdown permite aplicar diferentes estilos al texto:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Negrita:&lt;/em&gt; Se utiliza doble asterisco &lt;code&gt;**&lt;/code&gt; o doble guion bajo &lt;code&gt;__&lt;/code&gt; alrededor del texto.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Cursiva:&lt;/em&gt; Se utiliza un asterisco &lt;code&gt;*&lt;/code&gt; o un guion bajo &lt;code&gt;_&lt;/code&gt; alrededor del texto.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Negrita y cursiva:&lt;/em&gt; Combina tres asteriscos &lt;code&gt;***&lt;/code&gt; alrededor del texto.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tachado:&lt;/em&gt; Se utiliza doble tilde &lt;code&gt;~~&lt;/code&gt; alrededor del texto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Este texto está en negrita**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ge&#34;&gt;*Este texto está en cursiva*&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ge&#34;&gt;**&lt;/span&gt;*Este texto tiene ambos estilos***
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;~~Este texto está tachado~~&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Este texto está en negrita&lt;/strong&gt;
+&lt;em&gt;Este texto está en cursiva&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;Este texto tiene ambos estilos&lt;/strong&gt;&lt;/em&gt;
+&lt;del&gt;Este texto está tachado&lt;/del&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-listas&#34;&gt;3. Listas
+&lt;/h2&gt;&lt;h3 id=&#34;31-listas-desordenadas&#34;&gt;3.1 Listas Desordenadas
+&lt;/h3&gt;&lt;p&gt;Se crean utilizando un guion &lt;code&gt;-&lt;/code&gt;, un asterisco &lt;code&gt;*&lt;/code&gt;, o un signo &lt;code&gt;+&lt;/code&gt; seguido de un espacio. Puedes anidar elementos con sangría.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Elemento 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Elemento 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Sub-elemento 2.1
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Elemento 1&lt;/li&gt;
+&lt;li&gt;Elemento 2
+&lt;ul&gt;
+&lt;li&gt;Sub-elemento 2.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;32-listas-ordenadas&#34;&gt;3.2 Listas Ordenadas
+&lt;/h3&gt;&lt;p&gt;Se crean con números seguidos de un punto y un espacio. El número no necesita ser secuencial, Markdown se encarga de formatearlo correctamente.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Primer elemento
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; Segundo elemento
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ol&gt;
+&lt;li&gt;Primer elemento&lt;/li&gt;
+&lt;li&gt;Segundo elemento&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-citas&#34;&gt;4. Citas
+&lt;/h2&gt;&lt;p&gt;Las citas se crean usando el símbolo &lt;code&gt;&amp;gt;&lt;/code&gt; seguido de un espacio. Puedes usarlas para destacar textos, como frases célebres o ideas importantes.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;&amp;#34;El conocimiento es poder.&amp;#34; - Francis Bacon
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;El conocimiento es poder.&amp;rdquo; - Francis Bacon&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
         </item>
         <item>
         <title>Viaje a Liverpool y Chester 🚕</title>

@@ -28,3 +28,65 @@ Los siguientes elementos HTML `<h1>—<h6>` representan seis niveles de encabeza
 
 ```
 
+---
+
+## 2. Estilos de Texto
+
+Markdown permite aplicar diferentes estilos al texto:
+
+- *Negrita:* Se utiliza doble asterisco `**` o doble guion bajo `__` alrededor del texto.
+- *Cursiva:* Se utiliza un asterisco `*` o un guion bajo `_` alrededor del texto.
+- *Negrita y cursiva:* Combina tres asteriscos `***` alrededor del texto.
+- *Tachado:* Se utiliza doble tilde `~~` alrededor del texto.
+
+```markdown
+**Este texto está en negrita**
+*Este texto está en cursiva*
+***Este texto tiene ambos estilos***
+~~Este texto está tachado~~
+```
+
+**Este texto está en negrita**
+*Este texto está en cursiva*
+***Este texto tiene ambos estilos***
+~~Este texto está tachado~~
+
+---
+
+## 3. Listas
+
+### 3.1 Listas Desordenadas
+Se crean utilizando un guion `-`, un asterisco `*`, o un signo `+` seguido de un espacio. Puedes anidar elementos con sangría.
+
+```markdown
+- Elemento 1
+- Elemento 2
+    - Sub-elemento 2.1
+```
+- Elemento 1
+- Elemento 2
+    - Sub-elemento 2.1
+
+---
+
+### 3.2 Listas Ordenadas
+Se crean con números seguidos de un punto y un espacio. El número no necesita ser secuencial, Markdown se encarga de formatearlo correctamente.
+
+```markdown
+1. Primer elemento
+2. Segundo elemento
+```
+
+1. Primer elemento
+2. Segundo elemento
+
+---
+
+## 4. Citas
+
+Las citas se crean usando el símbolo `>` seguido de un espacio. Puedes usarlas para destacar textos, como frases célebres o ideas importantes.
+
+```markdown
+> "El conocimiento es poder." - Francis Bacon
+```
+> "El conocimiento es poder." - Francis Bacon

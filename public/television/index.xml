@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Televisions on SaruCodes</title>
+        <link>http://localhost:1313/television/</link>
+        <description>Recent content in Televisions on SaruCodes</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <copyright>Sara Codes</copyright>
+        <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/television/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Television </title>
+        <link>http://localhost:1313/television/television/</link>
+        <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/television/television/</guid>
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Television " /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

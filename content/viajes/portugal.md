@@ -25,13 +25,17 @@ antiguos y los numerosos monumentos.
 
 ## **Lugares emblemáticos de la ciudad**
 
-### **El Barrio de Alfama**
+## **1. El Barrio de Alfama**
 
 Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y casas de colores pastel adornadas con azulejos tradicionales. Es el lugar perfecto para perderse sin mapa, descubriendo miradores escondidos y pequeñas plazas llenas de vida.
 
 No te pierdas el **Castillo de San Jorge**, un imponente testimonio de la historia medieval de la ciudad, desde donde podrás disfrutar de una de las vistas más espectaculares de Lisboa.
 
-## **3. Castillo de San Jorge** 🏯
+![Imagen del barrio de Alfama desde lo alto](/img/lisboa3.jpg)
+
+---
+
+## **2. Castillo de San Jorge** 🏯
 Situado en una colina con vistas panorámicas de la ciudad, este castillo medieval fue una fortaleza clave durante la historia de Lisboa. Es perfecto para explorar murallas y disfrutar de vistas impresionantes.
 
 - **Ubicación:** Alfama
@@ -39,7 +43,7 @@ Situado en una colina con vistas panorámicas de la ciudad, este castillo mediev
 
 ---
 
-## **4. Elevador de Santa Justa** 🛗
+## **3. Elevador de Santa Justa** 🛗
 Una maravilla de ingeniería del siglo XIX, este ascensor conecta los barrios de Baixa y Chiado. Su diseño neogótico lo convierte en una atracción única.
 
 - **Ubicación:** Baixa
@@ -47,13 +51,13 @@ Una maravilla de ingeniería del siglo XIX, este ascensor conecta los barrios de
 
 ---
 
-## **5. Plaza del Comercio (Praça do Comércio)** 🌟
+## **4. Plaza del Comercio (Praça do Comércio)** 🌟
 Una de las plazas más grandes y hermosas de Europa, ubicada junto al río Tajo. Representa la reconstrucción de la ciudad tras el terremoto de 1755.
 
 - **Ubicación:** Baixa
 - **Dato curioso:** Aquí se encuentra el icónico Arco de Rua Augusta.
 
-
+![Imagen de la plaza del comercio de Lisboa](/img/lisboa2.jpg)
 
 ---
 
