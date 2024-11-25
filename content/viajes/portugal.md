@@ -68,14 +68,17 @@ No puedes hablar de Lisboa sin mencionar su deliciosa gastronomía. Aquí, cada 
 ### **Pasteles de Nata**
 
 Es imposible visitar Lisboa y no probar un **pastel de nata**. Estas tartaletas de crema, especialmente las de la famosa pastelería **Pastéis de Belém**, son el acompañamiento perfecto para un café portugués.
+![Imagen de una cesta con pasteles de nata](/img/pastelnata.jpg)
 
 ### **Bacalhau à Brás**
 
 El bacalao es el ingrediente estrella de la cocina portuguesa, y el **Bacalhau à Brás**, una mezcla de bacalao desmenuzado con cebolla, patatas fritas y huevo, es uno de los platos más queridos por los locales.
+![Imagen de un plato de bacalhau a bras](/img/bacalhau.jpg)
 
 ### **Francesinhas**
 
 Un sandwich con carne, jamón de york, queso y huevo con salsa de tomate, uno de los platos de la cocina de aprovechamiento más famosos de todo Portugal.
+![Imagen de una frnacesinha cortada a la mitad](/img/francesinha.jpg)
 
 ---
 
