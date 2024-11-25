@@ -1,9 +1,10 @@
 ---
-title: "Television "
+title: "Televisión"
 date: 2024-11-17
-layout: "datos_tv"
-tags: ["television"]
+layout: "single"
+tags: ["televisión"]
 categories: ["Entretenimiento"]
 image: "/img/default.jpg"
+type: "television"
 ---
 ## Listado de canales:
