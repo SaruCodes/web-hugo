@@ -13,7 +13,8 @@
         <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/television/television/</guid>
-        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Television " /&gt;</description>
+        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Television " /&gt;&lt;h2 id=&#34;listado-de-canales&#34;&gt;Listado de canales:
+&lt;/h2&gt;</description>
         </item>
         
     </channel>
