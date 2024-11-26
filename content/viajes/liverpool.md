@@ -6,6 +6,7 @@ layout= "page"
 tags= ["viaje", "blog"]
 categories = ["viajes"]
 image = "/img/liverpool.jpg"
+draft= false
 +++
 
 # ¡Bienvenido a Liverpool y Chester!

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Javascript on SaruCodes</title>
-        <link>http://localhost:1313/tags/javascript/</link>
+        <link>http://localhost:1313/web-hugo/tags/javascript/</link>
         <description>Recent content in Javascript on SaruCodes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
         <copyright>Sara Codes</copyright>
-        <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/web-hugo/tags/javascript/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Objetos Complejos en JavaScript 💻</title>
-        <link>http://localhost:1313/apuntes/javascript2/</link>
+        <link>http://localhost:1313/web-hugo/apuntes/javascript2/</link>
         <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/apuntes/javascript2/</guid>
+        <guid>http://localhost:1313/web-hugo/apuntes/javascript2/</guid>
         <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Objetos Complejos en JavaScript 💻" /&gt;&lt;h1 id=&#34;objetos-complejos-en-javascript-&#34;&gt;Objetos Complejos en JavaScript 🚀
 &lt;/h1&gt;&lt;p&gt;En JavaScript, los &lt;strong&gt;objetos complejos&lt;/strong&gt; son estructuras fundamentales que permiten almacenar y gestionar datos más avanzados. Son esenciales para construir aplicaciones dinámicas y trabajar con datos de manera eficiente.&lt;/p&gt;
 &lt;hr&gt;
@@ -130,11 +130,11 @@
         </item>
         <item>
         <title>Introducción a JavaScript 💻</title>
-        <link>http://localhost:1313/apuntes/javascript/</link>
+        <link>http://localhost:1313/web-hugo/apuntes/javascript/</link>
         <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/apuntes/javascript/</guid>
-        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Introducción a JavaScript 💻" /&gt;&lt;h2 id=&#34;qué-es-javascript&#34;&gt;&lt;strong&gt;¿Qué es JavaScript?&lt;/strong&gt;
+        <guid>http://localhost:1313/web-hugo/apuntes/javascript/</guid>
+        <description>&lt;img src="http://localhost:1313/web-hugo/img/default.jpg" alt="Featured image of post Introducción a JavaScript 💻" /&gt;&lt;h2 id=&#34;qué-es-javascript&#34;&gt;&lt;strong&gt;¿Qué es JavaScript?&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;JavaScript es un lenguaje de programación que se utiliza principalmente para agregar interactividad a las páginas web. Es compatible con todos los navegadores modernos y es esencial en el desarrollo web.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;tipos-de-datos-en-javascript&#34;&gt;&lt;strong&gt;Tipos de datos en JavaScript&lt;/strong&gt;

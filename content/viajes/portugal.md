@@ -5,6 +5,7 @@ layout: "page"
 tags: ["viaje", "blog"]
 categories: ["viajes"]
 image: "/img/lisboa.jpg"
+draft: false;
 ---
 Contenido de la página "Viajes" aquí...
 

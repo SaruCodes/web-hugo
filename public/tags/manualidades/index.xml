@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Manualidades on SaruCodes</title>
-        <link>http://localhost:1313/tags/manualidades/</link>
+        <link>http://localhost:1313/web-hugo/tags/manualidades/</link>
         <description>Recent content in Manualidades on SaruCodes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
         <copyright>Sara Codes</copyright>
-        <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/manualidades/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/web-hugo/tags/manualidades/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Crochet: Conoce mi hobby 🧶</title>
-        <link>http://localhost:1313/sobremi/crochet/</link>
+        <link>http://localhost:1313/web-hugo/sobremi/crochet/</link>
         <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/sobremi/crochet/</guid>
+        <guid>http://localhost:1313/web-hugo/sobremi/crochet/</guid>
         <description>&lt;img src="http://localhost:1313/img/crochet.jpg" alt="Featured image of post Crochet: Conoce mi hobby 🧶" /&gt;&lt;h1 id=&#34;introducción-al-crochet-tu-nueva-pasión-artesanal-&#34;&gt;Introducción al Crochet: Tu Nueva Pasión Artesanal 🧶
 &lt;/h1&gt;&lt;p&gt;Este último año me he interesado por el crochet, convirtiendolo en uno de mis hobbies. Es relajante y a mi parecer
 sencillo para principiantes, asi que he decidido compartir mis conocimientos con todos y hacer una breve introducción al crochet.
@@ -46,7 +46,7 @@ En este artículo, hablare sobre los puntos básicos, los tipos de ganchos y el 
 &lt;li&gt;&lt;strong&gt;Acrílico&lt;/strong&gt;: Económico y disponible en una amplia variedad de colores.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Lana&lt;/strong&gt;: Cálida y elástica, ideal para prendas de invierno.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/crochet2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/web-hugo/img/crochet2.jpg&#34;
 	
 	
 	

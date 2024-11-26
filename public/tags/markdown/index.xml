@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Markdown on SaruCodes</title>
-        <link>http://localhost:1313/tags/markdown/</link>
+        <link>http://localhost:1313/web-hugo/tags/markdown/</link>
         <description>Recent content in Markdown on SaruCodes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
         <copyright>Sara Codes</copyright>
-        <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/web-hugo/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown avanzado</title>
-        <link>http://localhost:1313/markdown/markdown2/</link>
+        <link>http://localhost:1313/web-hugo/markdown/markdown2/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/markdown/markdown2/</guid>
+        <guid>http://localhost:1313/web-hugo/markdown/markdown2/</guid>
         <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Markdown avanzado" /&gt;&lt;h1 id=&#34;guía-avanzada-de-markdown-y-shortcodes-en-hugo&#34;&gt;Guía Avanzada de Markdown y Shortcodes en Hugo
 &lt;/h1&gt;&lt;p&gt;Markdown es un lenguaje de marcado ligero que facilita la creación de contenido. En esta guía, exploraremos características avanzadas y cómo Hugo permite extender su funcionalidad con &lt;strong&gt;shortcodes&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
@@ -106,10 +106,10 @@
         </item>
         <item>
         <title>Markdown básico</title>
-        <link>http://localhost:1313/markdown/markdown/</link>
+        <link>http://localhost:1313/web-hugo/markdown/markdown/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/markdown/markdown/</guid>
+        <guid>http://localhost:1313/web-hugo/markdown/markdown/</guid>
         <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Markdown básico" /&gt;&lt;h1 id=&#34;guía-de-sintaxis-markdown&#34;&gt;Guía de Sintaxis Markdown
 &lt;/h1&gt;&lt;p&gt;Este artículo ofrece un ejemplo básico de la sintaxis de Markdown que puedes usar en archivos de contenido Hugo, además de mostrar cómo se aplican los elementos HTML básicos decorados con CSS en un tema Hugo.&lt;/p&gt;
 &lt;hr&gt;

@@ -6,6 +6,7 @@ tags: ["crochet", "blog", "manualidades"]
 summary: "Descubre uno de mis hobbies, el crochet, también te doy consejos sobre como empezar."
 categories: ["entretenimiento"]
 image: "/img/crochet.jpg"
+draft: false;
 ---
 
 # Introducción al Crochet: Tu Nueva Pasión Artesanal 🧶
