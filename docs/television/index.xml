@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Televisions on SaruCodes</title>
-    <link>http://localhost:1313/web-hugo/television/</link>
+    <link>http://localhost:1313/television/</link>
     <description>Recent content in Televisions on SaruCodes</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>Sara Codes</copyright>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/web-hugo/television/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/television/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Televisión</title>
-      <link>http://localhost:1313/web-hugo/television/television/</link>
+      <link>http://localhost:1313/television/television/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/television/television/</guid>
+      <guid>http://localhost:1313/television/television/</guid>
       <description>&lt;h2 id=&#34;listado-de-canales&#34;&gt;Listado de canales:&lt;/h2&gt;</description>
     </item>
   </channel>

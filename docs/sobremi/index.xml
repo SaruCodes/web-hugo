@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobremis on SaruCodes</title>
-    <link>http://localhost:1313/web-hugo/sobremi/</link>
+    <link>http://localhost:1313/sobremi/</link>
     <description>Recent content in Sobremis on SaruCodes</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>Sara Codes</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/web-hugo/sobremi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sobremi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crochet: Conoce mi hobby 🧶</title>
-      <link>http://localhost:1313/web-hugo/sobremi/crochet/</link>
+      <link>http://localhost:1313/sobremi/crochet/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/sobremi/crochet/</guid>
+      <guid>http://localhost:1313/sobremi/crochet/</guid>
       <description>Descubre uno de mis hobbies, el crochet, también te doy consejos sobre como empezar.</description>
     </item>
     <item>
       <title>Mis Videojuegos Favoritos 🎮</title>
-      <link>http://localhost:1313/web-hugo/sobremi/videojuegos/</link>
+      <link>http://localhost:1313/sobremi/videojuegos/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/sobremi/videojuegos/</guid>
+      <guid>http://localhost:1313/sobremi/videojuegos/</guid>
       <description>&lt;h1 id=&#34;mis-videojuegos-favoritos-&#34;&gt;Mis Videojuegos Favoritos 🎮✨&lt;/h1&gt;&#xA;&lt;p&gt;En esta página, quiero compartir algunos de mis videojuegos favoritos. Hay algo para todos, desde juegos tranquilos y relajantes hasta experiencias cooperativas llenas de emoción. ¡Descubre conmigo estos increíbles títulos!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cozy-games&#34;&gt;&lt;strong&gt;Cozy Games:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Los cozy games son juegos tranquilos, normalmente &amp;ldquo;Farming Simulator&amp;rdquo; o simulador de granja en español en los que debes hacer tareas&#xA;pero son más calmados que otros videojuegos. Usualmente tienen un factor &amp;ldquo;Cozy&amp;rdquo; esto significa que son acogedores, dejandolo en evidencia&#xA;en su jugabilidad, nombre, estilo de arte etc&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL: "https://SaruCodes.github.io/web-hugo/"
+baseURL: "https://localhost"
 languageCode: "es-es"
 title: "SaruCodes"
 theme: "hugo-theme-stack"

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crochet on SaruCodes</title>
-    <link>http://localhost:1313/web-hugo/tags/crochet/</link>
+    <link>http://localhost:1313/tags/crochet/</link>
     <description>Recent content in Crochet on SaruCodes</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>Sara Codes</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/web-hugo/tags/crochet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/crochet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crochet: Conoce mi hobby 🧶</title>
-      <link>http://localhost:1313/web-hugo/sobremi/crochet/</link>
+      <link>http://localhost:1313/sobremi/crochet/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/sobremi/crochet/</guid>
+      <guid>http://localhost:1313/sobremi/crochet/</guid>
       <description>Descubre uno de mis hobbies, el crochet, también te doy consejos sobre como empezar.</description>
     </item>
   </channel>

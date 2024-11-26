@@ -1,0 +1,171 @@
+baseURL: "https://SaruCodes.github.io/web-hugo/"
+languageCode: "es-es"
+title: "SaruCodes"
+theme: "hugo-theme-stack"
+copyright: "Sara Codes"
+DefaultContentLanguage: "es"
+hasCJKLanguage: false
+publishDir: "docs"
+
+languages:
+  es:
+    languageName: Español
+    title: "SaruCodes"
+    weight: 1
+    params:
+      sidebar:
+        subtitle: "Bienvenido a mi espacio."
+  en:
+    languageName: English
+    title: "SaruCodes (EN)"
+    weight: 2
+    params:
+      sidebar:
+        subtitle: "Welcome to my space."
+
+params:
+  # Secciones principales
+  mainSections:
+    - sobremi
+    - viajes
+  featuredImageField: "image"
+  rssFullContent: true
+  favicon: "/favicon.ico"
+
+  # Pie de página
+  footer:
+    since: 2023
+    customText: "¡Gracias por visitar mi web!"
+
+  # Formato de fechas
+  dateFormat:
+    published: "Jan 02, 2006"
+    lastUpdated: "Jan 02, 2006 15:04 MST"
+
+  # Barra lateral
+  sidebar:
+    compact: false
+    emoji: "🌸"
+    subtitle: "Bienvenido a mi espacio."
+    avatar:
+      enabled: true
+      local: true
+      src: "img/avatar.jpg"
+
+
+article:
+  list: true
+  per_page: 5
+  filter:
+    category: "blog"
+    tags: ["blog", "viajes", "markdown"]
+  order: desc
+  toc: true
+  share: true
+  author: true
+
+
+  defaultImage:
+    opengraph:
+      enabled: true
+      local: true
+      src: "/img/default.jpg"
+
+
+  colorScheme:
+    toggle: true
+    default: auto
+
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
+
+widgets:
+  homepage:
+    - type: categories
+      params:
+        limit: 5
+    - type: tag-cloud
+      params:
+        limit: 10
+
+menu:
+  main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 1
+    - identifier: "viajes"
+      name: "Viajes"
+      url: "/viajes/"
+      weight: 2
+    - identifier: "apuntes"
+      name: "Apuntes"
+      url: "/apuntes/"
+      weight: 3
+    - identifier: "markdown"
+      name: "Markdown"
+      url: "/markdown/"
+      weight: 4
+    - identifier: "television"
+      name: "Television"
+      url: "/television/"
+      weight: 5
+  social:
+    - identifier: "github"
+      name: "GitHub"
+      url: "https://github.com/SaruCodes"
+      params:
+        icon: "brand-github"
+    - identifier: "twitter"
+      name: "Twitter"
+      url: "https://twitter.com/tuusuario"
+      params:
+        icon: "brand-twitter"
+
+pagination:
+  pagerSize: 5
+
+permalinks:
+  post: "/p/:slug/"
+  page: "/:slug/"
+
+related:
+  includeNewer: true
+  threshold: 60
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 200
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - "\\["
+              - "\\]"
+            - - "$$"
+              - "$$"
+          inline:
+            - - "\\("
+              - "\\)"
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4

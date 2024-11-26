@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on SaruCodes</title>
-    <link>http://localhost:1313/web-hugo/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on SaruCodes</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>Sara Codes</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/web-hugo/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crochet: Conoce mi hobby 🧶</title>
-      <link>http://localhost:1313/web-hugo/sobremi/crochet/</link>
+      <link>http://localhost:1313/sobremi/crochet/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/sobremi/crochet/</guid>
+      <guid>http://localhost:1313/sobremi/crochet/</guid>
       <description>Descubre uno de mis hobbies, el crochet, también te doy consejos sobre como empezar.</description>
     </item>
     <item>
       <title>Mis Videojuegos Favoritos 🎮</title>
-      <link>http://localhost:1313/web-hugo/sobremi/videojuegos/</link>
+      <link>http://localhost:1313/sobremi/videojuegos/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/sobremi/videojuegos/</guid>
+      <guid>http://localhost:1313/sobremi/videojuegos/</guid>
       <description>&lt;h1 id=&#34;mis-videojuegos-favoritos-&#34;&gt;Mis Videojuegos Favoritos 🎮✨&lt;/h1&gt;&#xA;&lt;p&gt;En esta página, quiero compartir algunos de mis videojuegos favoritos. Hay algo para todos, desde juegos tranquilos y relajantes hasta experiencias cooperativas llenas de emoción. ¡Descubre conmigo estos increíbles títulos!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cozy-games&#34;&gt;&lt;strong&gt;Cozy Games:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Los cozy games son juegos tranquilos, normalmente &amp;ldquo;Farming Simulator&amp;rdquo; o simulador de granja en español en los que debes hacer tareas&#xA;pero son más calmados que otros videojuegos. Usualmente tienen un factor &amp;ldquo;Cozy&amp;rdquo; esto significa que son acogedores, dejandolo en evidencia&#xA;en su jugabilidad, nombre, estilo de arte etc&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Viaje a Portugal ✈️</title>
-      <link>http://localhost:1313/web-hugo/viajes/portugal/</link>
+      <link>http://localhost:1313/viajes/portugal/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/viajes/portugal/</guid>
+      <guid>http://localhost:1313/viajes/portugal/</guid>
       <description>&lt;p&gt;Contenido de la página &amp;ldquo;Viajes&amp;rdquo; aquí&amp;hellip;&lt;/p&gt;&#xA;&lt;h1 id=&#34;lisboa-una-ciudad-de-encanto-historia-y-luz&#34;&gt;Lisboa: Una Ciudad de Encanto, Historia y Luz&lt;/h1&gt;&#xA;&lt;p&gt;El mes pasado tuve la oportunidad de visitar una de las ciudades más bonitas que he visto hasta el momento.&#xA;Lisboa, la capital de Portugal, es un lugar que combina historia, cultura y una vibrante vida moderna.&#xA;Con sus calles empedradas, sus miradores panorámicos y su famosa luz dorada, esta ciudad no solo enamora a quienes la visitan, sino que deja una marca inolvidable en el corazón de quienes la recorren.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Viaje a Liverpool y Chester 🚕</title>
-      <link>http://localhost:1313/web-hugo/viajes/liverpool/</link>
+      <link>http://localhost:1313/viajes/liverpool/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/web-hugo/viajes/liverpool/</guid>
+      <guid>http://localhost:1313/viajes/liverpool/</guid>
       <description>&lt;h1 id=&#34;bienvenido-a-liverpool-y-chester&#34;&gt;¡Bienvenido a Liverpool y Chester!&lt;/h1&gt;&#xA;&lt;p&gt;Si estás planeando una visita al noroeste de Inglaterra, hay dos lugares que no puedes dejar de explorar: &lt;strong&gt;Liverpool&lt;/strong&gt;, una ciudad vibrante llena de historia, música y cultura.&#xA;Hace años tuve oportunidad de visitarla y quiero recomendar sitios emblematicos que no os podeis perder.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;liverpool-la-ciudad-de-los-beatles-y-más&#34;&gt;Liverpool: La Ciudad de los Beatles y Más&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Liverpool&lt;/strong&gt; es famosa mundialmente por ser el lugar donde nacieron &lt;strong&gt;The Beatles&lt;/strong&gt;, pero esta ciudad tiene mucho más que ofrecer. Desde sus impresionantes muelles históricos hasta su pasión por el fútbol, aquí tienes algunos puntos clave que no puedes perderte:&lt;/p&gt;</description>
     </item>
   </channel>
