@@ -1,215 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Entretenimiento on SaruCodes</title>
-        <link>http://localhost:1313/web-hugo/categories/entretenimiento/</link>
-        <description>Recent content in Entretenimiento on SaruCodes</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <copyright>Sara Codes</copyright>
-        <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/web-hugo/categories/entretenimiento/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Crochet: Conoce mi hobby 🧶</title>
-        <link>http://localhost:1313/web-hugo/sobremi/crochet/</link>
-        <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/web-hugo/sobremi/crochet/</guid>
-        <description>&lt;img src="http://localhost:1313/img/crochet.jpg" alt="Featured image of post Crochet: Conoce mi hobby 🧶" /&gt;&lt;h1 id=&#34;introducción-al-crochet-tu-nueva-pasión-artesanal-&#34;&gt;Introducción al Crochet: Tu Nueva Pasión Artesanal 🧶
-&lt;/h1&gt;&lt;p&gt;Este último año me he interesado por el crochet, convirtiendolo en uno de mis hobbies. Es relajante y a mi parecer
-sencillo para principiantes, asi que he decidido compartir mis conocimientos con todos y hacer una breve introducción al crochet.
-En este artículo, hablare sobre los puntos básicos, los tipos de ganchos y el material adecuado para tus proyectos.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;qué-necesitas-para-empezar&#34;&gt;¿Qué necesitas para empezar?
-&lt;/h2&gt;&lt;h3 id=&#34;1-agujas-de-ganchillo&#34;&gt;1. &lt;strong&gt;Agujas de ganchillo&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Las agujas de crochet vienen en diferentes tamaños y materiales. Aquí tienes una pequeña guía para elegir la ideal:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Materiales:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Metal&lt;/strong&gt;: Son duraderas y perfectas para trabajar con hilos finos.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plástico&lt;/strong&gt;: Ligeras y cómodas, ideales para principiantes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Madera o bambú&lt;/strong&gt;: Suaves al tacto y ecológicas, perfectas para hilos gruesos.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Tamaños comunes:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Para principiantes, un gancho de tamaño &lt;strong&gt;5 mm (H/8)&lt;/strong&gt; funciona bien con la mayoría de los hilos.&lt;/li&gt;
-&lt;li&gt;Los tamaños más pequeños (como &lt;strong&gt;2 mm&lt;/strong&gt;) son ideales para hilos delgados, mientras que los más grandes (&lt;strong&gt;10 mm o más&lt;/strong&gt;) son perfectos para lana gruesa.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;2-tipos-de-hilo&#34;&gt;2. &lt;strong&gt;Tipos de hilo&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Elige un hilo según tu proyecto. Para empezar, un hilo de grosor medio (etiquetado como &lt;strong&gt;&amp;ldquo;4 Medium&amp;rdquo;&lt;/strong&gt; o &lt;strong&gt;&amp;ldquo;Worsted&amp;rdquo;&lt;/strong&gt;) es ideal. También puedes explorar:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Algodón&lt;/strong&gt;: Perfecto para proyectos ligeros como posavasos o amigurumis.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Acrílico&lt;/strong&gt;: Económico y disponible en una amplia variedad de colores.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lana&lt;/strong&gt;: Cálida y elástica, ideal para prendas de invierno.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/web-hugo/img/crochet2.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Imagen de ovillos azules&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;aprende-los-puntos-básicos&#34;&gt;Aprende los puntos básicos
-&lt;/h2&gt;&lt;p&gt;Antes de lanzarte a proyectos complejos, es importante dominar los puntos básicos. Aquí tienes algunos esenciales:&lt;/p&gt;
-&lt;h3 id=&#34;1-cadeneta-chain-stitch---ch&#34;&gt;1. &lt;strong&gt;Cadeneta (Chain Stitch - ch)&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Es el primer punto que aprenderás. Forma la base de casi todos los proyectos. Practica haciendo cadenas hasta que te sientas cómodo con el movimiento.&lt;/p&gt;
-&lt;h3 id=&#34;2-punto-bajo-single-crochet---sc&#34;&gt;2. &lt;strong&gt;Punto bajo (Single Crochet - sc)&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Un punto compacto y sencillo, ideal para proyectos como amigurumis o prendas que necesitan ser densas.&lt;/p&gt;
-&lt;h3 id=&#34;3-punto-alto-double-crochet---dc&#34;&gt;3. &lt;strong&gt;Punto alto (Double Crochet - dc)&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Es más alto y suelto que el punto bajo, perfecto para mantas y prendas ligeras.&lt;/p&gt;
-&lt;h3 id=&#34;4-punto-deslizado-slip-stitch---sl-st&#34;&gt;4. &lt;strong&gt;Punto deslizado (Slip Stitch - sl st)&lt;/strong&gt;
-&lt;/h3&gt;&lt;p&gt;Se utiliza para unir partes de un proyecto o para dar un acabado limpio.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;consejos-para-principiantes&#34;&gt;Consejos para principiantes
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Empieza con algo pequeño:&lt;/strong&gt; Proyectos como posavasos, paños de cocina o una bufanda simple son excelentes para practicar.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sé paciente:&lt;/strong&gt; Al principio, tus puntos pueden no ser perfectos, ¡y eso está bien! El crochet mejora con la práctica.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Explora tutoriales:&lt;/strong&gt; Existen muchos videos y patrones gratuitos en línea para inspirarte.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;No tengas miedo a equivocarte:&lt;/strong&gt; Es completamente normal, por suerte con un tirón puedes deshacer parte del proyecto.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;un-mundo-de-posibilidades&#34;&gt;Un mundo de posibilidades
-&lt;/h2&gt;&lt;p&gt;El crochet no solo es divertido, sino también terapéutico. Con el tiempo, podrás crear prendas de vestir, mantas decorativas, juguetes y más. Además, es una manera fantástica de personalizar regalos o incluso de iniciar un pequeño negocio.&lt;/p&gt;
-&lt;p&gt;¡Así que toma tu aguja, elige un ovillo de tu color favorito y comienza a crear! Añado un tutorial para que podais poneros manos a la obra. 🌟&lt;/p&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/zzWX2dx8ufc&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-</description>
-        </item>
-        <item>
-        <title>Mis Videojuegos Favoritos 🎮</title>
-        <link>http://localhost:1313/web-hugo/sobremi/videojuegos/</link>
-        <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/web-hugo/sobremi/videojuegos/</guid>
-        <description>&lt;img src="http://localhost:1313/img/videojuego.jpg" alt="Featured image of post Mis Videojuegos Favoritos 🎮" /&gt;&lt;h1 id=&#34;mis-videojuegos-favoritos-&#34;&gt;Mis Videojuegos Favoritos 🎮✨
-&lt;/h1&gt;&lt;p&gt;En esta página, quiero compartir algunos de mis videojuegos favoritos. Hay algo para todos, desde juegos tranquilos y relajantes hasta experiencias cooperativas llenas de emoción. ¡Descubre conmigo estos increíbles títulos!&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;cozy-games&#34;&gt;&lt;strong&gt;Cozy Games:&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;Los cozy games son juegos tranquilos, normalmente &amp;ldquo;Farming Simulator&amp;rdquo; o simulador de granja en español en los que debes hacer tareas
-pero son más calmados que otros videojuegos. Usualmente tienen un factor &amp;ldquo;Cozy&amp;rdquo; esto significa que son acogedores, dejandolo en evidencia
-en su jugabilidad, nombre, estilo de arte etc&amp;hellip;&lt;/p&gt;
-&lt;p&gt;¡A continuación os dejo algunos de mis favoritos!&lt;/p&gt;
-&lt;h3 id=&#34;1-stardew-valley-&#34;&gt;&lt;strong&gt;1. Stardew Valley&lt;/strong&gt; 🌾
-&lt;/h3&gt;&lt;p&gt;Un juego de simulación de granja que permite a los jugadores cultivar, pescar, criar animales y formar relaciones con los habitantes de Pelican Town.
-Perfecto para desconectar y disfrutar de un ambiente rural encantador. Además tiene una comunidad muy activa que aporta mods para añadir funcionalidades al juego.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Género:&lt;/strong&gt; Simulación, Aventura&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt; PC, Nintendo Switch, PlayStation, Xbox, Móviles&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aspectos destacados:&lt;/strong&gt; Personalización de la granja, exploración de minas y narrativa emocional.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/8A7A1X1TVNc&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;2-animal-crossing-new-horizons-&#34;&gt;&lt;strong&gt;2. Animal Crossing: New Horizons&lt;/strong&gt; 🏝️
-&lt;/h3&gt;&lt;p&gt;Quinta entrega de la saga relajante en la que construyes y personalizas tu isla, interactúas con adorables aldeanos animales y decoras tu hogar. ¡Ideal para jugar a tu propio ritmo!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Género:&lt;/strong&gt; Simulación, Social&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt; Nintendo Switch&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aspectos destacados:&lt;/strong&gt; Eventos estacionales, diseño creativo y comunidad acogedora.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/5YPxiTLMcdg&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;3-terraria-&#34;&gt;&lt;strong&gt;3. Terraria&lt;/strong&gt; 🛠️
-&lt;/h3&gt;&lt;p&gt;Un sandbox en 2D que combina exploración, construcción y combates épicos. Aunque tiene momentos intensos, se puede disfrutar sin pelear.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Género:&lt;/strong&gt; Aventura, Supervivencia&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt; PC, Consolas, Móviles&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aspectos destacados:&lt;/strong&gt; Biomas únicos, jefes desafiantes y multijugador cooperativo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/w7uOhFTrrq0&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;4-cozy-grove-&#34;&gt;&lt;strong&gt;4. Cozy Grove&lt;/strong&gt; 🪵
-&lt;/h3&gt;&lt;p&gt;Un juego diario encantador que mezcla decoración y exploración en una isla habitada por adorables fantasmas. Con un estilo artístico pintado a mano, Cozy Grove invita a relajarte mientras completas pequeñas tareas.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Género:&lt;/strong&gt; Simulación, Aventura&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt; PC, Nintendo Switch, PlayStation, Xbox, Móviles&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aspectos destacados:&lt;/strong&gt; Ritmo pausado, narrativa cálida y personalización de tu entorno.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/35nCCbXBhw8&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2 id=&#34;juegos-cooperativos-online&#34;&gt;&lt;strong&gt;Juegos Cooperativos Online&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;En esta cattegoría he decidido introducir algunos juegos muy distintos a los que he mencionado anteriormente, para ellos necesitaas tener
-más conocimiento sobre videojuegos, suelen ser más complicados y como característica principal puedes jugar con amigos online, normalmente
-en equipos contra otra gente, esto no quita que sigan teniendo opcion singleplayer.&lt;/p&gt;
-&lt;p&gt;¡Estos son los que más juego ultimamente!&lt;/p&gt;
-&lt;h3 id=&#34;1-fortnite-&#34;&gt;&lt;strong&gt;1. Fortnite&lt;/strong&gt; 🛡️
-&lt;/h3&gt;&lt;p&gt;Aunque conocido por su modo Battle Royale, Fortnite también ofrece modos creativos y cooperativos que permiten jugar con amigos y construir experiencias únicas.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Género:&lt;/strong&gt; Battle Royale, Acción&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt; PC, Consolas, Móviles&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aspectos destacados:&lt;/strong&gt; Eventos en vivo, personalización de personajes y juego en equipo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2-dead-by-daylight-&#34;&gt;&lt;strong&gt;2. Dead by Daylight&lt;/strong&gt; 🩸
-&lt;/h3&gt;&lt;p&gt;Un juego de terror multijugador donde puedes jugar como un asesino o un sobreviviente que trabaja en equipo para escapar. Perfecto para los amantes del suspenso.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Género:&lt;/strong&gt; Terror, Cooperativo&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt; PC, Consolas&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aspectos destacados:&lt;/strong&gt; Tensión constante, personajes icónicos del cine de terror y estrategia.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;3-project-zomboid-&#34;&gt;&lt;strong&gt;3. Project Zomboid&lt;/strong&gt; 🧟
-&lt;/h3&gt;&lt;p&gt;Un juego de supervivencia zombie donde el trabajo en equipo es clave. Diseña estrategias, comparte recursos y enfréntate a hordas de no-muertos con amigos ¿Cuánto podrás sobrevivir?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Género:&lt;/strong&gt; Supervivencia, Sandbox&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt; PC&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aspectos destacados:&lt;/strong&gt; Simulación detallada, combate estratégico y personalización de personajes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Y tu ¿A qué juegas? ¿Qué juegos te gustan a ti? 🎮🌟&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Televisión</title>
-        <link>http://localhost:1313/web-hugo/television/television/</link>
-        <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/web-hugo/television/television/</guid>
-        <description>&lt;img src="http://localhost:1313/img/default.jpg" alt="Featured image of post Televisión" /&gt;&lt;h2 id=&#34;listado-de-canales&#34;&gt;Listado de canales:
-&lt;/h2&gt;</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Entretenimiento on SaruCodes</title>
+    <link>http://localhost:1313/web-hugo/categories/entretenimiento/</link>
+    <description>Recent content in Entretenimiento on SaruCodes</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>Sara Codes</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/web-hugo/categories/entretenimiento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crochet: Conoce mi hobby 🧶</title>
+      <link>http://localhost:1313/web-hugo/sobremi/crochet/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/web-hugo/sobremi/crochet/</guid>
+      <description>Descubre uno de mis hobbies, el crochet, también te doy consejos sobre como empezar.</description>
+    </item>
+    <item>
+      <title>Mis Videojuegos Favoritos 🎮</title>
+      <link>http://localhost:1313/web-hugo/sobremi/videojuegos/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/web-hugo/sobremi/videojuegos/</guid>
+      <description>&lt;h1 id=&#34;mis-videojuegos-favoritos-&#34;&gt;Mis Videojuegos Favoritos 🎮✨&lt;/h1&gt;&#xA;&lt;p&gt;En esta página, quiero compartir algunos de mis videojuegos favoritos. Hay algo para todos, desde juegos tranquilos y relajantes hasta experiencias cooperativas llenas de emoción. ¡Descubre conmigo estos increíbles títulos!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cozy-games&#34;&gt;&lt;strong&gt;Cozy Games:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Los cozy games son juegos tranquilos, normalmente &amp;ldquo;Farming Simulator&amp;rdquo; o simulador de granja en español en los que debes hacer tareas&#xA;pero son más calmados que otros videojuegos. Usualmente tienen un factor &amp;ldquo;Cozy&amp;rdquo; esto significa que son acogedores, dejandolo en evidencia&#xA;en su jugabilidad, nombre, estilo de arte etc&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Televisión</title>
+      <link>http://localhost:1313/web-hugo/television/television/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/web-hugo/television/television/</guid>
+      <description>&lt;h2 id=&#34;listado-de-canales&#34;&gt;Listado de canales:&lt;/h2&gt;</description>
+    </item>
+  </channel>
 </rss>
