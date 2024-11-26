@@ -32,7 +32,7 @@ Alfama, el barrio más antiguo de Lisboa, es un laberinto de calles estrechas y 
 
 No te pierdas el **Castillo de San Jorge**, un imponente testimonio de la historia medieval de la ciudad, desde donde podrás disfrutar de una de las vistas más espectaculares de Lisboa.
 
-![Imagen del barrio de Alfama desde lo alto](/img/lisboa3.jpg)
+![Imagen del barrio de Alfama desde lo alto](./img/lisboa3.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ Una de las plazas más grandes y hermosas de Europa, ubicada junto al río Tajo.
 - **Ubicación:** Baixa
 - **Dato curioso:** Aquí se encuentra el icónico Arco de Rua Augusta.
 
-![Imagen de la plaza del comercio de Lisboa](/img/lisboa2.jpg)
+![Imagen de la plaza del comercio de Lisboa](./img/lisboa2.jpg)
 
 ---
 
@@ -69,17 +69,17 @@ No puedes hablar de Lisboa sin mencionar su deliciosa gastronomía. Aquí, cada 
 ### **Pasteles de Nata**
 
 Es imposible visitar Lisboa y no probar un **pastel de nata**. Estas tartaletas de crema, especialmente las de la famosa pastelería **Pastéis de Belém**, son el acompañamiento perfecto para un café portugués.
-![Imagen de una cesta con pasteles de nata](/img/pastelnata.jpg)
+![Imagen de una cesta con pasteles de nata](./img/pastelnata.jpg)
 
 ### **Bacalhau à Brás**
 
 El bacalao es el ingrediente estrella de la cocina portuguesa, y el **Bacalhau à Brás**, una mezcla de bacalao desmenuzado con cebolla, patatas fritas y huevo, es uno de los platos más queridos por los locales.
-![Imagen de un plato de bacalhau a bras](/img/bacalhau.jpg)
+![Imagen de un plato de bacalhau a bras](./img/bacalhau.jpg)
 
 ### **Francesinhas**
 
 Un sandwich con carne, jamón de york, queso y huevo con salsa de tomate, uno de los platos de la cocina de aprovechamiento más famosos de todo Portugal.
-![Imagen de una frnacesinha cortada a la mitad](/img/francesinha.jpg)
+![Imagen de una frnacesinha cortada a la mitad](./img/francesinha.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ Un sandwich con carne, jamón de york, queso y huevo con salsa de tomate, uno de
 - **Mejor Época para Visitar**: La primavera y el otoño son ideales para disfrutar del clima agradable sin las multitudes del verano.
 - **Prepárate para Caminar**: Lleva calzado cómodo, muchas calles son de adoquines y con subidas y bajadas.
 
-![Imagen de un tranvía amarillo tipico de Lisboa](/img/lisboa4.jpg)
+![Imagen de un tranvía amarillo tipico de Lisboa](./img/lisboa4.jpg)
 
 
 ---

@@ -38,7 +38,7 @@ Para los amantes del fútbol, visitar el estadio **Anfield**, hogar del **Liverp
 
 A tan solo 45 minutos en tren desde Liverpool, **Chester** es una ciudad pequeña pero llena de encanto. Su historia se remonta a la época romana, y sus calles conservan un aire medieval que te hará sentir en otra época.
 
-![Imagen en blanco y negro de un edificio en Chester](/img/chester.jpg)
+![Imagen en blanco y negro de un edificio en Chester](./img/chester.jpg)
 
 ### 1. Las Murallas Romanas
 Las murallas de Chester son una de las mejor conservadas de Inglaterra. Puedes caminar sobre ellas y disfrutar de vistas panorámicas de la ciudad.
