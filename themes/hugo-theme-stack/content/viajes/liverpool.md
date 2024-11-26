@@ -5,7 +5,7 @@ description= "Descubre la ciudad de los Beatles."
 layout= "page"
 tags= ["viaje", "blog"]
 categories = ["viajes"]
-image = "/img/liverpool.jpg"
+image = "./img/liverpool.jpg"
 draft= false
 +++
 

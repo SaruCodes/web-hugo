@@ -1,7 +1,7 @@
 {{ define "main" }}
     <header>
         <h3 class="section-title">
-            {{ if eq .Parent (.GetPage "/") }}
+            {{ if eq .Parent (.GetPage "./") }}
                 {{ T "list.section" }}
             {{ else }}
                 {{ .Parent.Title }}

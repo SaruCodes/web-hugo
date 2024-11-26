@@ -5,7 +5,7 @@ draft: false
 tags: ["javascript", "programación", "apuntes"]
 categories: ["programación"]
 
-image: "/img/default.jpg"
+image: "./img/default.jpg"
 ---
 
 # Objetos Complejos en JavaScript 🚀
