@@ -5,6 +5,7 @@ theme: "hugo-theme-stack"
 copyright: "Sara Codes"
 DefaultContentLanguage: "es"
 hasCJKLanguage: false
+publishDir: "docs"
 
 languages:
   es:
