@@ -5,7 +5,7 @@ draft: false
 description: "Un paseo por los videojuegos que más me gustan."
 tags: ["videojuegos", "blog", "gaming"]
 categories: ["entretenimiento"]
-image: "/img/videojuego.jpg"
+image: "./img/videojuego.jpg"
 ---
 
 # Mis Videojuegos Favoritos 🎮✨

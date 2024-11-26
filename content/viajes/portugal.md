@@ -4,7 +4,7 @@ date: 2024-11-17
 layout: "page"
 tags: ["viaje", "blog"]
 categories: ["viajes"]
-image: "/img/lisboa.jpg"
+image: "./img/lisboa.jpg"
 draft: false;
 ---
 Contenido de la página "Viajes" aquí...

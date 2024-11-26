@@ -69,7 +69,7 @@ article:
     opengraph:
       enabled: true
       local: true
-      src: "/img/default.jpg"
+      src: "./img/default.jpg"
 
 
   colorScheme:

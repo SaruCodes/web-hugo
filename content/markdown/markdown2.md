@@ -5,7 +5,7 @@ layout: "single"
 tags: ["markdown","util"]
 description: "Una guía de markdown más avanazada incluyendo shortcode"
 draft: false
-image: "/img/default.jpg"
+image: "./img/default.jpg"
 ---
 # Guía Avanzada de Markdown y Shortcodes en Hugo
 
